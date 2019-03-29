@@ -31,7 +31,7 @@ haarama	olid haaranud	V;ACT;PRS;PRF;POS;COND;2;SG
 haarama	haaravad	V;ACT;PRS;POS;IND;3;PL
 haarama	olite haaranud	V;ACT;PRS;PRF;POS;COND;2;PL
 haarama	ei haaratud	V;PASS;PST;NEG;IND
-haarama	oleksite haaranud	V;ACT;PRS;PRF:POS;COND;2;PL
+haarama	oleksite haaranud	V;ACT;PRS;PRF;POS;COND;2;PL
 haarama	haarav	V.PTCP;ACT;PRS
 haarama	haaraku	V;ACT;PRS;POS;IMP;3;SG
 haarama	haarama	V;NFIN
@@ -241,7 +241,7 @@ hakkama	olid hakanud	V;ACT;PRS;PRF;POS;COND;2;SG
 hakkama	hakkavad	V;ACT;PRS;POS;IND;3;PL
 hakkama	olite hakanud	V;ACT;PRS;PRF;POS;COND;2;PL
 hakkama	ei hakatud	V;PASS;PST;NEG;IND
-hakkama	oleksite hakanud	V;ACT;PRS;PRF:POS;COND;2;PL
+hakkama	oleksite hakanud	V;ACT;PRS;PRF;POS;COND;2;PL
 hakkama	hakkav	V.PTCP;ACT;PRS
 hakkama	hakaku	V;ACT;PRS;POS;IMP;3;SG
 hakkama	hakkama	V;NFIN
@@ -327,7 +327,7 @@ hallitama	olid hallitanud	V;ACT;PRS;PRF;POS;COND;2;SG
 hallitama	hallitavad	V;ACT;PRS;POS;IND;3;PL
 hallitama	olite hallitanud	V;ACT;PRS;PRF;POS;COND;2;PL
 hallitama	ei hallitatud	V;PASS;PST;NEG;IND
-hallitama	oleksite hallitanud	V;ACT;PRS;PRF:POS;COND;2;PL
+hallitama	oleksite hallitanud	V;ACT;PRS;PRF;POS;COND;2;PL
 hallitama	hallitav	V.PTCP;ACT;PRS
 hallitama	hallitagu	V;ACT;PRS;POS;IMP;3;SG
 hallitama	hallitama	V;NFIN
@@ -444,7 +444,7 @@ harima	olid harinud	V;ACT;PRS;PRF;POS;COND;2;SG
 harima	harivad	V;ACT;PRS;POS;IND;3;PL
 harima	olite harinud	V;ACT;PRS;PRF;POS;COND;2;PL
 harima	ei haritud	V;PASS;PST;NEG;IND
-harima	oleksite harinud	V;ACT;PRS;PRF:POS;COND;2;PL
+harima	oleksite harinud	V;ACT;PRS;PRF;POS;COND;2;PL
 harima	hariv	V.PTCP;ACT;PRS
 harima	harigu	V;ACT;PRS;POS;IMP;3;SG
 harima	harima	V;NFIN
@@ -530,7 +530,7 @@ harjama	olid harjanud	V;ACT;PRS;PRF;POS;COND;2;SG
 harjama	harjavad	V;ACT;PRS;POS;IND;3;PL
 harjama	olite harjanud	V;ACT;PRS;PRF;POS;COND;2;PL
 harjama	ei harjatud	V;PASS;PST;NEG;IND
-harjama	oleksite harjanud	V;ACT;PRS;PRF:POS;COND;2;PL
+harjama	oleksite harjanud	V;ACT;PRS;PRF;POS;COND;2;PL
 harjama	harjav	V.PTCP;ACT;PRS
 harjama	harjaku	V;ACT;PRS;POS;IMP;3;SG
 harjama	harjama	V;NFIN
@@ -616,7 +616,7 @@ harjutama	olid harjutanud	V;ACT;PRS;PRF;POS;COND;2;SG
 harjutama	harjutavad	V;ACT;PRS;POS;IND;3;PL
 harjutama	olite harjutanud	V;ACT;PRS;PRF;POS;COND;2;PL
 harjutama	ei harjutatud	V;PASS;PST;NEG;IND
-harjutama	oleksite harjutanud	V;ACT;PRS;PRF:POS;COND;2;PL
+harjutama	oleksite harjutanud	V;ACT;PRS;PRF;POS;COND;2;PL
 harjutama	harjutav	V.PTCP;ACT;PRS
 harjutama	harjutagu	V;ACT;PRS;POS;IMP;3;SG
 harjutama	harjutama	V;NFIN
@@ -826,7 +826,7 @@ heitma	olid heitnud	V;ACT;PRS;PRF;POS;COND;2;SG
 heitma	heidavad	V;ACT;PRS;POS;IND;3;PL
 heitma	olite heitnud	V;ACT;PRS;PRF;POS;COND;2;PL
 heitma	ei heidetud	V;PASS;PST;NEG;IND
-heitma	oleksite heitnud	V;ACT;PRS;PRF:POS;COND;2;PL
+heitma	oleksite heitnud	V;ACT;PRS;PRF;POS;COND;2;PL
 heitma	heitev	V.PTCP;ACT;PRS
 heitma	heitku	V;ACT;PRS;POS;IMP;3;SG
 heitma	heitma	V;NFIN
@@ -943,7 +943,7 @@ helistama	olid helistanud	V;ACT;PRS;PRF;POS;COND;2;SG
 helistama	helistavad	V;ACT;PRS;POS;IND;3;PL
 helistama	olite helistanud	V;ACT;PRS;PRF;POS;COND;2;PL
 helistama	ei helistatud	V;PASS;PST;NEG;IND
-helistama	oleksite helistanud	V;ACT;PRS;PRF:POS;COND;2;PL
+helistama	oleksite helistanud	V;ACT;PRS;PRF;POS;COND;2;PL
 helistama	helistav	V.PTCP;ACT;PRS
 helistama	helistagu	V;ACT;PRS;POS;IMP;3;SG
 helistama	helistama	V;NFIN
@@ -1060,7 +1060,7 @@ higistama	olid higistanud	V;ACT;PRS;PRF;POS;COND;2;SG
 higistama	higistavad	V;ACT;PRS;POS;IND;3;PL
 higistama	olite higistanud	V;ACT;PRS;PRF;POS;COND;2;PL
 higistama	ei higistatud	V;PASS;PST;NEG;IND
-higistama	oleksite higistanud	V;ACT;PRS;PRF:POS;COND;2;PL
+higistama	oleksite higistanud	V;ACT;PRS;PRF;POS;COND;2;PL
 higistama	higistav	V.PTCP;ACT;PRS
 higistama	higistagu	V;ACT;PRS;POS;IMP;3;SG
 higistama	higistama	V;NFIN
@@ -1208,7 +1208,7 @@ hirmuma	olid hirmunud	V;ACT;PRS;PRF;POS;COND;2;SG
 hirmuma	hirmuvad	V;ACT;PRS;POS;IND;3;PL
 hirmuma	olite hirmunud	V;ACT;PRS;PRF;POS;COND;2;PL
 hirmuma	ei hirmutud	V;PASS;PST;NEG;IND
-hirmuma	oleksite hirmunud	V;ACT;PRS;PRF:POS;COND;2;PL
+hirmuma	oleksite hirmunud	V;ACT;PRS;PRF;POS;COND;2;PL
 hirmuma	hirmuv	V.PTCP;ACT;PRS
 hirmuma	hirmugu	V;ACT;PRS;POS;IMP;3;SG
 hirmuma	hirmuma	V;NFIN
@@ -1356,7 +1356,7 @@ hoiatama	olid hoiatanud	V;ACT;PRS;PRF;POS;COND;2;SG
 hoiatama	hoiatavad	V;ACT;PRS;POS;IND;3;PL
 hoiatama	olite hoiatanud	V;ACT;PRS;PRF;POS;COND;2;PL
 hoiatama	ei hoiatatud	V;PASS;PST;NEG;IND
-hoiatama	oleksite hoiatanud	V;ACT;PRS;PRF:POS;COND;2;PL
+hoiatama	oleksite hoiatanud	V;ACT;PRS;PRF;POS;COND;2;PL
 hoiatama	hoiatav	V.PTCP;ACT;PRS
 hoiatama	hoiatagu	V;ACT;PRS;POS;IMP;3;SG
 hoiatama	hoiatama	V;NFIN
@@ -1473,7 +1473,7 @@ hoidma	olid hoidnud	V;ACT;PRS;PRF;POS;COND;2;SG
 hoidma	hoiavad	V;ACT;PRS;POS;IND;3;PL
 hoidma	olite hoidnud	V;ACT;PRS;PRF;POS;COND;2;PL
 hoidma	ei hoietud	V;PASS;PST;NEG;IND
-hoidma	oleksite hoidnud	V;ACT;PRS;PRF:POS;COND;2;PL
+hoidma	oleksite hoidnud	V;ACT;PRS;PRF;POS;COND;2;PL
 hoidma	hoidev	V.PTCP;ACT;PRS
 hoidma	hoidku	V;ACT;PRS;POS;IMP;3;SG
 hoidma	hoidma	V;NFIN
@@ -1559,7 +1559,7 @@ hoiduma	olid hoidunud	V;ACT;PRS;PRF;POS;COND;2;SG
 hoiduma	hoiduvad	V;ACT;PRS;POS;IND;3;PL
 hoiduma	olite hoidunud	V;ACT;PRS;PRF;POS;COND;2;PL
 hoiduma	ei hoidutud	V;PASS;PST;NEG;IND
-hoiduma	oleksite hoidunud	V;ACT;PRS;PRF:POS;COND;2;PL
+hoiduma	oleksite hoidunud	V;ACT;PRS;PRF;POS;COND;2;PL
 hoiduma	hoiduv	V.PTCP;ACT;PRS
 hoiduma	hoidugu	V;ACT;PRS;POS;IMP;3;SG
 hoiduma	hoiduma	V;NFIN
@@ -1707,7 +1707,7 @@ hukkama	olid hukanud	V;ACT;PRS;PRF;POS;COND;2;SG
 hukkama	hukkavad	V;ACT;PRS;POS;IND;3;PL
 hukkama	olite hukanud	V;ACT;PRS;PRF;POS;COND;2;PL
 hukkama	ei hukatud	V;PASS;PST;NEG;IND
-hukkama	oleksite hukanud	V;ACT;PRS;PRF:POS;COND;2;PL
+hukkama	oleksite hukanud	V;ACT;PRS;PRF;POS;COND;2;PL
 hukkama	hukkav	V.PTCP;ACT;PRS
 hukkama	hukaku	V;ACT;PRS;POS;IMP;3;SG
 hukkama	hukkama	V;NFIN
@@ -1793,7 +1793,7 @@ häirima	olid häirinud	V;ACT;PRS;PRF;POS;COND;2;SG
 häirima	häirivad	V;ACT;PRS;POS;IND;3;PL
 häirima	olite häirinud	V;ACT;PRS;PRF;POS;COND;2;PL
 häirima	ei häiritud	V;PASS;PST;NEG;IND
-häirima	oleksite häirinud	V;ACT;PRS;PRF:POS;COND;2;PL
+häirima	oleksite häirinud	V;ACT;PRS;PRF;POS;COND;2;PL
 häirima	häiriv	V.PTCP;ACT;PRS
 häirima	häirigu	V;ACT;PRS;POS;IMP;3;SG
 häirima	häirima	V;NFIN
@@ -1879,7 +1879,7 @@ hääletama	olid hääletanud	V;ACT;PRS;PRF;POS;COND;2;SG
 hääletama	hääletavad	V;ACT;PRS;POS;IND;3;PL
 hääletama	olite hääletanud	V;ACT;PRS;PRF;POS;COND;2;PL
 hääletama	ei hääletatud	V;PASS;PST;NEG;IND
-hääletama	oleksite hääletanud	V;ACT;PRS;PRF:POS;COND;2;PL
+hääletama	oleksite hääletanud	V;ACT;PRS;PRF;POS;COND;2;PL
 hääletama	hääletav	V.PTCP;ACT;PRS
 hääletama	hääletagu	V;ACT;PRS;POS;IMP;3;SG
 hääletama	hääletama	V;NFIN
@@ -2058,7 +2058,7 @@ hõivama	olid hõivanud	V;ACT;PRS;PRF;POS;COND;2;SG
 hõivama	hõivavad	V;ACT;PRS;POS;IND;3;PL
 hõivama	olite hõivanud	V;ACT;PRS;PRF;POS;COND;2;PL
 hõivama	ei hõivatud	V;PASS;PST;NEG;IND
-hõivama	oleksite hõivanud	V;ACT;PRS;PRF:POS;COND;2;PL
+hõivama	oleksite hõivanud	V;ACT;PRS;PRF;POS;COND;2;PL
 hõivama	hõivav	V.PTCP;ACT;PRS
 hõivama	hõivaku	V;ACT;PRS;POS;IMP;3;SG
 hõivama	hõivama	V;NFIN
@@ -2237,7 +2237,7 @@ hööveldama	olid hööveldanud	V;ACT;PRS;PRF;POS;COND;2;SG
 hööveldama	hööveldavad	V;ACT;PRS;POS;IND;3;PL
 hööveldama	olite hööveldanud	V;ACT;PRS;PRF;POS;COND;2;PL
 hööveldama	ei hööveldatud	V;PASS;PST;NEG;IND
-hööveldama	oleksite hööveldanud	V;ACT;PRS;PRF:POS;COND;2;PL
+hööveldama	oleksite hööveldanud	V;ACT;PRS;PRF;POS;COND;2;PL
 hööveldama	hööveldav	V.PTCP;ACT;PRS
 hööveldama	hööveldagu	V;ACT;PRS;POS;IMP;3;SG
 hööveldama	hööveldama	V;NFIN
@@ -2323,7 +2323,7 @@ hüppama	olid hüpanud	V;ACT;PRS;PRF;POS;COND;2;SG
 hüppama	hüppavad	V;ACT;PRS;POS;IND;3;PL
 hüppama	olite hüpanud	V;ACT;PRS;PRF;POS;COND;2;PL
 hüppama	ei hüpatud	V;PASS;PST;NEG;IND
-hüppama	oleksite hüpanud	V;ACT;PRS;PRF:POS;COND;2;PL
+hüppama	oleksite hüpanud	V;ACT;PRS;PRF;POS;COND;2;PL
 hüppama	hüppav	V.PTCP;ACT;PRS
 hüppama	hüpaku	V;ACT;PRS;POS;IMP;3;SG
 hüppama	hüppama	V;NFIN
@@ -2409,7 +2409,7 @@ hüvitama	olid hüvitanud	V;ACT;PRS;PRF;POS;COND;2;SG
 hüvitama	hüvitavad	V;ACT;PRS;POS;IND;3;PL
 hüvitama	olite hüvitanud	V;ACT;PRS;PRF;POS;COND;2;PL
 hüvitama	ei hüvitatud	V;PASS;PST;NEG;IND
-hüvitama	oleksite hüvitanud	V;ACT;PRS;PRF:POS;COND;2;PL
+hüvitama	oleksite hüvitanud	V;ACT;PRS;PRF;POS;COND;2;PL
 hüvitama	hüvitav	V.PTCP;ACT;PRS
 hüvitama	hüvitagu	V;ACT;PRS;POS;IMP;3;SG
 hüvitama	hüvitama	V;NFIN
@@ -2495,7 +2495,7 @@ hüüdma	olid hüüdnud	V;ACT;PRS;PRF;POS;COND;2;SG
 hüüdma	hüüavad	V;ACT;PRS;POS;IND;3;PL
 hüüdma	olite hüüdnud	V;ACT;PRS;PRF;POS;COND;2;PL
 hüüdma	ei hüüetud	V;PASS;PST;NEG;IND
-hüüdma	oleksite hüüdnud	V;ACT;PRS;PRF:POS;COND;2;PL
+hüüdma	oleksite hüüdnud	V;ACT;PRS;PRF;POS;COND;2;PL
 hüüdma	hüüdev	V.PTCP;ACT;PRS
 hüüdma	hüüdku	V;ACT;PRS;POS;IMP;3;SG
 hüüdma	hüüdma	V;NFIN
@@ -2736,7 +2736,7 @@ imema	olid imenud	V;ACT;PRS;PRF;POS;COND;2;SG
 imema	imevad	V;ACT;PRS;POS;IND;3;PL
 imema	olite imenud	V;ACT;PRS;PRF;POS;COND;2;PL
 imema	ei imetud	V;PASS;PST;NEG;IND
-imema	oleksite imenud	V;ACT;PRS;PRF:POS;COND;2;PL
+imema	oleksite imenud	V;ACT;PRS;PRF;POS;COND;2;PL
 imema	imev	V.PTCP;ACT;PRS
 imema	imegu	V;ACT;PRS;POS;IMP;3;SG
 imema	imema	V;NFIN
@@ -2853,7 +2853,7 @@ imetama	olid imetanud	V;ACT;PRS;PRF;POS;COND;2;SG
 imetama	imetavad	V;ACT;PRS;POS;IND;3;PL
 imetama	olite imetanud	V;ACT;PRS;PRF;POS;COND;2;PL
 imetama	ei imetatud	V;PASS;PST;NEG;IND
-imetama	oleksite imetanud	V;ACT;PRS;PRF:POS;COND;2;PL
+imetama	oleksite imetanud	V;ACT;PRS;PRF;POS;COND;2;PL
 imetama	imetav	V.PTCP;ACT;PRS
 imetama	imetagu	V;ACT;PRS;POS;IMP;3;SG
 imetama	imetama	V;NFIN
@@ -3373,7 +3373,7 @@ istuma	olid istunud	V;ACT;PRS;PRF;POS;COND;2;SG
 istuma	istuvad	V;ACT;PRS;POS;IND;3;PL
 istuma	olite istunud	V;ACT;PRS;PRF;POS;COND;2;PL
 istuma	ei istutud	V;PASS;PST;NEG;IND
-istuma	oleksite istunud	V;ACT;PRS;PRF:POS;COND;2;PL
+istuma	oleksite istunud	V;ACT;PRS;PRF;POS;COND;2;PL
 istuma	istuv	V.PTCP;ACT;PRS
 istuma	istugu	V;ACT;PRS;POS;IMP;3;SG
 istuma	istuma	V;NFIN
@@ -3490,7 +3490,7 @@ itsitama	olid itsitanud	V;ACT;PRS;PRF;POS;COND;2;SG
 itsitama	itsitavad	V;ACT;PRS;POS;IND;3;PL
 itsitama	olite itsitanud	V;ACT;PRS;PRF;POS;COND;2;PL
 itsitama	ei itsitatud	V;PASS;PST;NEG;IND
-itsitama	oleksite itsitanud	V;ACT;PRS;PRF:POS;COND;2;PL
+itsitama	oleksite itsitanud	V;ACT;PRS;PRF;POS;COND;2;PL
 itsitama	itsitav	V.PTCP;ACT;PRS
 itsitama	itsitagu	V;ACT;PRS;POS;IMP;3;SG
 itsitama	itsitama	V;NFIN
@@ -3638,7 +3638,7 @@ jaatama	olid jaatanud	V;ACT;PRS;PRF;POS;COND;2;SG
 jaatama	jaatavad	V;ACT;PRS;POS;IND;3;PL
 jaatama	olite jaatanud	V;ACT;PRS;PRF;POS;COND;2;PL
 jaatama	ei jaatatud	V;PASS;PST;NEG;IND
-jaatama	oleksite jaatanud	V;ACT;PRS;PRF:POS;COND;2;PL
+jaatama	oleksite jaatanud	V;ACT;PRS;PRF;POS;COND;2;PL
 jaatama	jaatav	V.PTCP;ACT;PRS
 jaatama	jaatagu	V;ACT;PRS;POS;IMP;3;SG
 jaatama	jaatama	V;NFIN
@@ -3879,7 +3879,7 @@ jooma	olid joonud	V;ACT;PRS;PRF;POS;COND;2;SG
 jooma	joovad	V;ACT;PRS;POS;IND;3;PL
 jooma	olite joonud	V;ACT;PRS;PRF;POS;COND;2;PL
 jooma	ei joodud	V;PASS;PST;NEG;IND
-jooma	oleksite joonud	V;ACT;PRS;PRF:POS;COND;2;PL
+jooma	oleksite joonud	V;ACT;PRS;PRF;POS;COND;2;PL
 jooma	joov	V.PTCP;ACT;PRS
 jooma	joogu	V;ACT;PRS;POS;IMP;3;SG
 jooma	jooma	V;NFIN
@@ -4120,7 +4120,7 @@ järgnema	olid järgnenud	V;ACT;PRS;PRF;POS;COND;2;SG
 järgnema	järgnevad	V;ACT;PRS;POS;IND;3;PL
 järgnema	olite järgnenud	V;ACT;PRS;PRF;POS;COND;2;PL
 järgnema	ei järgnetud	V;PASS;PST;NEG;IND
-järgnema	oleksite järgnenud	V;ACT;PRS;PRF:POS;COND;2;PL
+järgnema	oleksite järgnenud	V;ACT;PRS;PRF;POS;COND;2;PL
 järgnema	järgnev	V.PTCP;ACT;PRS
 järgnema	järgnegu	V;ACT;PRS;POS;IMP;3;SG
 järgnema	järgnema	V;NFIN
@@ -4237,7 +4237,7 @@ jätma	olid jätnud	V;ACT;PRS;PRF;POS;COND;2;SG
 jätma	jätavad	V;ACT;PRS;POS;IND;3;PL
 jätma	olite jätnud	V;ACT;PRS;PRF;POS;COND;2;PL
 jätma	ei jätetud	V;PASS;PST;NEG;IND
-jätma	oleksite jätnud	V;ACT;PRS;PRF:POS;COND;2;PL
+jätma	oleksite jätnud	V;ACT;PRS;PRF;POS;COND;2;PL
 jätma	jättev	V.PTCP;ACT;PRS
 jätma	jätku	V;ACT;PRS;POS;IMP;3;SG
 jätma	jätma	V;NFIN
@@ -4354,7 +4354,7 @@ jääma	olid jäänud	V;ACT;PRS;PRF;POS;COND;2;SG
 jääma	jäävad	V;ACT;PRS;POS;IND;3;PL
 jääma	olite jäänud	V;ACT;PRS;PRF;POS;COND;2;PL
 jääma	ei jäädud	V;PASS;PST;NEG;IND
-jääma	oleksite jäänud	V;ACT;PRS;PRF:POS;COND;2;PL
+jääma	oleksite jäänud	V;ACT;PRS;PRF;POS;COND;2;PL
 jääma	jääv	V.PTCP;ACT;PRS
 jääma	jäägu	V;ACT;PRS;POS;IMP;3;SG
 jääma	jääma	V;NFIN
@@ -4471,7 +4471,7 @@ jäätama	olid jäätanud	V;ACT;PRS;PRF;POS;COND;2;SG
 jäätama	jäätavad	V;ACT;PRS;POS;IND;3;PL
 jäätama	olite jäätanud	V;ACT;PRS;PRF;POS;COND;2;PL
 jäätama	ei jäätatud	V;PASS;PST;NEG;IND
-jäätama	oleksite jäätanud	V;ACT;PRS;PRF:POS;COND;2;PL
+jäätama	oleksite jäätanud	V;ACT;PRS;PRF;POS;COND;2;PL
 jäätama	jäätav	V.PTCP;ACT;PRS
 jäätama	jäätagu	V;ACT;PRS;POS;IMP;3;SG
 jäätama	jäätama	V;NFIN
@@ -4619,7 +4619,7 @@ jäätuma	olid jäätunud	V;ACT;PRS;PRF;POS;COND;2;SG
 jäätuma	jäätuvad	V;ACT;PRS;POS;IND;3;PL
 jäätuma	olite jäätunud	V;ACT;PRS;PRF;POS;COND;2;PL
 jäätuma	ei jäätutud	V;PASS;PST;NEG;IND
-jäätuma	oleksite jäätunud	V;ACT;PRS;PRF:POS;COND;2;PL
+jäätuma	oleksite jäätunud	V;ACT;PRS;PRF;POS;COND;2;PL
 jäätuma	jäätuv	V.PTCP;ACT;PRS
 jäätuma	jäätugu	V;ACT;PRS;POS;IMP;3;SG
 jäätuma	jäätuma	V;NFIN
@@ -5356,7 +5356,7 @@ kaevama	olid kaevanud	V;ACT;PRS;PRF;POS;COND;2;SG
 kaevama	kaevavad	V;ACT;PRS;POS;IND;3;PL
 kaevama	olite kaevanud	V;ACT;PRS;PRF;POS;COND;2;PL
 kaevama	ei kaevatud	V;PASS;PST;NEG;IND
-kaevama	oleksite kaevanud	V;ACT;PRS;PRF:POS;COND;2;PL
+kaevama	oleksite kaevanud	V;ACT;PRS;PRF;POS;COND;2;PL
 kaevama	kaevav	V.PTCP;ACT;PRS
 kaevama	kaevaku	V;ACT;PRS;POS;IMP;3;SG
 kaevama	kaevama	V;NFIN
@@ -5628,7 +5628,7 @@ kajastama	olid kajastanud	V;ACT;PRS;PRF;POS;COND;2;SG
 kajastama	kajastavad	V;ACT;PRS;POS;IND;3;PL
 kajastama	olite kajastanud	V;ACT;PRS;PRF;POS;COND;2;PL
 kajastama	ei kajastatud	V;PASS;PST;NEG;IND
-kajastama	oleksite kajastanud	V;ACT;PRS;PRF:POS;COND;2;PL
+kajastama	oleksite kajastanud	V;ACT;PRS;PRF;POS;COND;2;PL
 kajastama	kajastav	V.PTCP;ACT;PRS
 kajastama	kajastagu	V;ACT;PRS;POS;IMP;3;SG
 kajastama	kajastama	V;NFIN
@@ -5714,7 +5714,7 @@ kaklema	olid kakelnud	V;ACT;PRS;PRF;POS;COND;2;SG
 kaklema	kaklevad	V;ACT;PRS;POS;IND;3;PL
 kaklema	olite kakelnud	V;ACT;PRS;PRF;POS;COND;2;PL
 kaklema	ei kakeldud	V;PASS;PST;NEG;IND
-kaklema	oleksite kakelnud	V;ACT;PRS;PRF:POS;COND;2;PL
+kaklema	oleksite kakelnud	V;ACT;PRS;PRF;POS;COND;2;PL
 kaklema	kaklev	V.PTCP;ACT;PRS
 kaklema	kakelgu	V;ACT;PRS;POS;IMP;3;SG
 kaklema	kaklema	V;NFIN
@@ -5893,7 +5893,7 @@ kalastama	olid kalastanud	V;ACT;PRS;PRF;POS;COND;2;SG
 kalastama	kalastavad	V;ACT;PRS;POS;IND;3;PL
 kalastama	olite kalastanud	V;ACT;PRS;PRF;POS;COND;2;PL
 kalastama	ei kalastatud	V;PASS;PST;NEG;IND
-kalastama	oleksite kalastanud	V;ACT;PRS;PRF:POS;COND;2;PL
+kalastama	oleksite kalastanud	V;ACT;PRS;PRF;POS;COND;2;PL
 kalastama	kalastav	V.PTCP;ACT;PRS
 kalastama	kalastagu	V;ACT;PRS;POS;IMP;3;SG
 kalastama	kalastama	V;NFIN
@@ -6134,7 +6134,7 @@ kallistama	olid kallistanud	V;ACT;PRS;PRF;POS;COND;2;SG
 kallistama	kallistavad	V;ACT;PRS;POS;IND;3;PL
 kallistama	olite kallistanud	V;ACT;PRS;PRF;POS;COND;2;PL
 kallistama	ei kallistatud	V;PASS;PST;NEG;IND
-kallistama	oleksite kallistanud	V;ACT;PRS;PRF:POS;COND;2;PL
+kallistama	oleksite kallistanud	V;ACT;PRS;PRF;POS;COND;2;PL
 kallistama	kallistav	V.PTCP;ACT;PRS
 kallistama	kallistagu	V;ACT;PRS;POS;IMP;3;SG
 kallistama	kallistama	V;NFIN
@@ -6530,7 +6530,7 @@ kaotama	olid kaotanud	V;ACT;PRS;PRF;POS;COND;2;SG
 kaotama	kaotavad	V;ACT;PRS;POS;IND;3;PL
 kaotama	olite kaotanud	V;ACT;PRS;PRF;POS;COND;2;PL
 kaotama	ei kaotatud	V;PASS;PST;NEG;IND
-kaotama	oleksite kaotanud	V;ACT;PRS;PRF:POS;COND;2;PL
+kaotama	oleksite kaotanud	V;ACT;PRS;PRF;POS;COND;2;PL
 kaotama	kaotav	V.PTCP;ACT;PRS
 kaotama	kaotagu	V;ACT;PRS;POS;IMP;3;SG
 kaotama	kaotama	V;NFIN
@@ -6895,7 +6895,7 @@ kasutama	olid kasutanud	V;ACT;PRS;PRF;POS;COND;2;SG
 kasutama	kasutavad	V;ACT;PRS;POS;IND;3;PL
 kasutama	olite kasutanud	V;ACT;PRS;PRF;POS;COND;2;PL
 kasutama	ei kasutatud	V;PASS;PST;NEG;IND
-kasutama	oleksite kasutanud	V;ACT;PRS;PRF:POS;COND;2;PL
+kasutama	oleksite kasutanud	V;ACT;PRS;PRF;POS;COND;2;PL
 kasutama	kasutav	V.PTCP;ACT;PRS
 kasutama	kasutagu	V;ACT;PRS;POS;IMP;3;SG
 kasutama	kasutama	V;NFIN
@@ -7012,7 +7012,7 @@ kasvama	olid kasvanud	V;ACT;PRS;PRF;POS;COND;2;SG
 kasvama	kasvavad	V;ACT;PRS;POS;IND;3;PL
 kasvama	olite kasvanud	V;ACT;PRS;PRF;POS;COND;2;PL
 kasvama	ei kasvatud	V;PASS;PST;NEG;IND
-kasvama	oleksite kasvanud	V;ACT;PRS;PRF:POS;COND;2;PL
+kasvama	oleksite kasvanud	V;ACT;PRS;PRF;POS;COND;2;PL
 kasvama	kasvav	V.PTCP;ACT;PRS
 kasvama	kasvagu	V;ACT;PRS;POS;IMP;3;SG
 kasvama	kasvama	V;NFIN
@@ -7129,7 +7129,7 @@ katkema	olid katkenud	V;ACT;PRS;PRF;POS;COND;2;SG
 katkema	katkevad	V;ACT;PRS;POS;IND;3;PL
 katkema	olite katkenud	V;ACT;PRS;PRF;POS;COND;2;PL
 katkema	ei katketud	V;PASS;PST;NEG;IND
-katkema	oleksite katkenud	V;ACT;PRS;PRF:POS;COND;2;PL
+katkema	oleksite katkenud	V;ACT;PRS;PRF;POS;COND;2;PL
 katkema	katkev	V.PTCP;ACT;PRS
 katkema	katkegu	V;ACT;PRS;POS;IMP;3;SG
 katkema	katkema	V;NFIN
@@ -7215,7 +7215,7 @@ katma	olid katnud	V;ACT;PRS;PRF;POS;COND;2;SG
 katma	katavad	V;ACT;PRS;POS;IND;3;PL
 katma	olite katnud	V;ACT;PRS;PRF;POS;COND;2;PL
 katma	ei katetud	V;PASS;PST;NEG;IND
-katma	oleksite katnud	V;ACT;PRS;PRF:POS;COND;2;PL
+katma	oleksite katnud	V;ACT;PRS;PRF;POS;COND;2;PL
 katma	kattev	V.PTCP;ACT;PRS
 katma	katku	V;ACT;PRS;POS;IMP;3;SG
 katma	katma	V;NFIN
@@ -7580,7 +7580,7 @@ keema	olid keenud	V;ACT;PRS;PRF;POS;COND;2;SG
 keema	keevad	V;ACT;PRS;POS;IND;3;PL
 keema	olite keenud	V;ACT;PRS;PRF;POS;COND;2;PL
 keema	ei keedud	V;PASS;PST;NEG;IND
-keema	oleksite keenud	V;ACT;PRS;PRF:POS;COND;2;PL
+keema	oleksite keenud	V;ACT;PRS;PRF;POS;COND;2;PL
 keema	keev	V.PTCP;ACT;PRS
 keema	keegu	V;ACT;PRS;POS;IMP;3;SG
 keema	keema	V;NFIN
@@ -7697,7 +7697,7 @@ keerama	olid keeranud	V;ACT;PRS;PRF;POS;COND;2;SG
 keerama	keeravad	V;ACT;PRS;POS;IND;3;PL
 keerama	olite keeranud	V;ACT;PRS;PRF;POS;COND;2;PL
 keerama	ei keeratud	V;PASS;PST;NEG;IND
-keerama	oleksite keeranud	V;ACT;PRS;PRF:POS;COND;2;PL
+keerama	oleksite keeranud	V;ACT;PRS;PRF;POS;COND;2;PL
 keerama	keerav	V.PTCP;ACT;PRS
 keerama	keeraku	V;ACT;PRS;POS;IMP;3;SG
 keerama	keerama	V;NFIN
@@ -7845,7 +7845,7 @@ keppima	olid keppinud	V;ACT;PRS;PRF;POS;COND;2;SG
 keppima	kepivad	V;ACT;PRS;POS;IND;3;PL
 keppima	olite keppinud	V;ACT;PRS;PRF;POS;COND;2;PL
 keppima	ei kepitud	V;PASS;PST;NEG;IND
-keppima	oleksite keppinud	V;ACT;PRS;PRF:POS;COND;2;PL
+keppima	oleksite keppinud	V;ACT;PRS;PRF;POS;COND;2;PL
 keppima	keppiv	V.PTCP;ACT;PRS
 keppima	keppigu	V;ACT;PRS;POS;IMP;3;SG
 keppima	keppima	V;NFIN
@@ -7962,7 +7962,7 @@ kerjama	olid kerjanud	V;ACT;PRS;PRF;POS;COND;2;SG
 kerjama	kerjavad	V;ACT;PRS;POS;IND;3;PL
 kerjama	olite kerjanud	V;ACT;PRS;PRF;POS;COND;2;PL
 kerjama	ei kerjatud	V;PASS;PST;NEG;IND
-kerjama	oleksite kerjanud	V;ACT;PRS;PRF:POS;COND;2;PL
+kerjama	oleksite kerjanud	V;ACT;PRS;PRF;POS;COND;2;PL
 kerjama	kerjav	V.PTCP;ACT;PRS
 kerjama	kerjaku	V;ACT;PRS;POS;IMP;3;SG
 kerjama	kerjama	V;NFIN
@@ -8203,7 +8203,7 @@ kihutama	olid kihutanud	V;ACT;PRS;PRF;POS;COND;2;SG
 kihutama	kihutavad	V;ACT;PRS;POS;IND;3;PL
 kihutama	olite kihutanud	V;ACT;PRS;PRF;POS;COND;2;PL
 kihutama	ei kihutatud	V;PASS;PST;NEG;IND
-kihutama	oleksite kihutanud	V;ACT;PRS;PRF:POS;COND;2;PL
+kihutama	oleksite kihutanud	V;ACT;PRS;PRF;POS;COND;2;PL
 kihutama	kihutav	V.PTCP;ACT;PRS
 kihutama	kihutagu	V;ACT;PRS;POS;IMP;3;SG
 kihutama	kihutama	V;NFIN
@@ -8320,7 +8320,7 @@ kiirendama	olid kiirendanud	V;ACT;PRS;PRF;POS;COND;2;SG
 kiirendama	kiirendavad	V;ACT;PRS;POS;IND;3;PL
 kiirendama	olite kiirendanud	V;ACT;PRS;PRF;POS;COND;2;PL
 kiirendama	ei kiirendatud	V;PASS;PST;NEG;IND
-kiirendama	oleksite kiirendanud	V;ACT;PRS;PRF:POS;COND;2;PL
+kiirendama	oleksite kiirendanud	V;ACT;PRS;PRF;POS;COND;2;PL
 kiirendama	kiirendav	V.PTCP;ACT;PRS
 kiirendama	kiirendagu	V;ACT;PRS;POS;IMP;3;SG
 kiirendama	kiirendama	V;NFIN
@@ -8530,7 +8530,7 @@ kiitma	olid kiitnud	V;ACT;PRS;PRF;POS;COND;2;SG
 kiitma	kiidavad	V;ACT;PRS;POS;IND;3;PL
 kiitma	olite kiitnud	V;ACT;PRS;PRF;POS;COND;2;PL
 kiitma	ei kiidetud	V;PASS;PST;NEG;IND
-kiitma	oleksite kiitnud	V;ACT;PRS;PRF:POS;COND;2;PL
+kiitma	oleksite kiitnud	V;ACT;PRS;PRF;POS;COND;2;PL
 kiitma	kiitev	V.PTCP;ACT;PRS
 kiitma	kiitku	V;ACT;PRS;POS;IMP;3;SG
 kiitma	kiitma	V;NFIN
@@ -8709,7 +8709,7 @@ kinkima	olid kinkinud	V;ACT;PRS;PRF;POS;COND;2;SG
 kinkima	kingivad	V;ACT;PRS;POS;IND;3;PL
 kinkima	olite kinkinud	V;ACT;PRS;PRF;POS;COND;2;PL
 kinkima	ei kingitud	V;PASS;PST;NEG;IND
-kinkima	oleksite kinkinud	V;ACT;PRS;PRF:POS;COND;2;PL
+kinkima	oleksite kinkinud	V;ACT;PRS;PRF;POS;COND;2;PL
 kinkima	kinkiv	V.PTCP;ACT;PRS
 kinkima	kinkigu	V;ACT;PRS;POS;IMP;3;SG
 kinkima	kinkima	V;NFIN
@@ -8795,7 +8795,7 @@ kinnitama	olid kinnitanud	V;ACT;PRS;PRF;POS;COND;2;SG
 kinnitama	kinnitavad	V;ACT;PRS;POS;IND;3;PL
 kinnitama	olite kinnitanud	V;ACT;PRS;PRF;POS;COND;2;PL
 kinnitama	ei kinnitatud	V;PASS;PST;NEG;IND
-kinnitama	oleksite kinnitanud	V;ACT;PRS;PRF:POS;COND;2;PL
+kinnitama	oleksite kinnitanud	V;ACT;PRS;PRF;POS;COND;2;PL
 kinnitama	kinnitav	V.PTCP;ACT;PRS
 kinnitama	kinnitagu	V;ACT;PRS;POS;IMP;3;SG
 kinnitama	kinnitama	V;NFIN
@@ -8881,7 +8881,7 @@ kippuma	olid kippunud	V;ACT;PRS;PRF;POS;COND;2;SG
 kippuma	kipuvad	V;ACT;PRS;POS;IND;3;PL
 kippuma	olite kippunud	V;ACT;PRS;PRF;POS;COND;2;PL
 kippuma	ei kiputud	V;PASS;PST;NEG;IND
-kippuma	oleksite kippunud	V;ACT;PRS;PRF:POS;COND;2;PL
+kippuma	oleksite kippunud	V;ACT;PRS;PRF;POS;COND;2;PL
 kippuma	kippuv	V.PTCP;ACT;PRS
 kippuma	kippugu	V;ACT;PRS;POS;IMP;3;SG
 kippuma	kippuma	V;NFIN
@@ -8998,7 +8998,7 @@ kirjutama	olid kirjutanud	V;ACT;PRS;PRF;POS;COND;2;SG
 kirjutama	kirjutavad	V;ACT;PRS;POS;IND;3;PL
 kirjutama	olite kirjutanud	V;ACT;PRS;PRF;POS;COND;2;PL
 kirjutama	ei kirjutatud	V;PASS;PST;NEG;IND
-kirjutama	oleksite kirjutanud	V;ACT;PRS;PRF:POS;COND;2;PL
+kirjutama	oleksite kirjutanud	V;ACT;PRS;PRF;POS;COND;2;PL
 kirjutama	kirjutav	V.PTCP;ACT;PRS
 kirjutama	kirjutagu	V;ACT;PRS;POS;IMP;3;SG
 kirjutama	kirjutama	V;NFIN
@@ -9332,7 +9332,7 @@ kobisema	olid kobisenud	V;ACT;PRS;PRF;POS;COND;2;SG
 kobisema	kobisevad	V;ACT;PRS;POS;IND;3;PL
 kobisema	olite kobisenud	V;ACT;PRS;PRF;POS;COND;2;PL
 kobisema	ei kobisetud	V;PASS;PST;NEG;IND
-kobisema	oleksite kobisenud	V;ACT;PRS;PRF:POS;COND;2;PL
+kobisema	oleksite kobisenud	V;ACT;PRS;PRF;POS;COND;2;PL
 kobisema	kobisev	V.PTCP;ACT;PRS
 kobisema	kobisegu	V;ACT;PRS;POS;IMP;3;SG
 kobisema	kobisema	V;NFIN
@@ -9418,7 +9418,7 @@ kobistama	olid kobistanud	V;ACT;PRS;PRF;POS;COND;2;SG
 kobistama	kobistavad	V;ACT;PRS;POS;IND;3;PL
 kobistama	olite kobistanud	V;ACT;PRS;PRF;POS;COND;2;PL
 kobistama	ei kobistatud	V;PASS;PST;NEG;IND
-kobistama	oleksite kobistanud	V;ACT;PRS;PRF:POS;COND;2;PL
+kobistama	oleksite kobistanud	V;ACT;PRS;PRF;POS;COND;2;PL
 kobistama	kobistav	V.PTCP;ACT;PRS
 kobistama	kobistagu	V;ACT;PRS;POS;IMP;3;SG
 kobistama	kobistama	V;NFIN
@@ -9597,7 +9597,7 @@ kohtama	olid kohanud	V;ACT;PRS;PRF;POS;COND;2;SG
 kohtama	kohtavad	V;ACT;PRS;POS;IND;3;PL
 kohtama	olite kohanud	V;ACT;PRS;PRF;POS;COND;2;PL
 kohtama	ei kohatud	V;PASS;PST;NEG;IND
-kohtama	oleksite kohanud	V;ACT;PRS;PRF:POS;COND;2;PL
+kohtama	oleksite kohanud	V;ACT;PRS;PRF;POS;COND;2;PL
 kohtama	kohtav	V.PTCP;ACT;PRS
 kohtama	kohaku	V;ACT;PRS;POS;IMP;3;SG
 kohtama	kohtama	V;NFIN
@@ -9900,7 +9900,7 @@ koristama	olid koristanud	V;ACT;PRS;PRF;POS;COND;2;SG
 koristama	koristavad	V;ACT;PRS;POS;IND;3;PL
 koristama	olite koristanud	V;ACT;PRS;PRF;POS;COND;2;PL
 koristama	ei koristatud	V;PASS;PST;NEG;IND
-koristama	oleksite koristanud	V;ACT;PRS;PRF:POS;COND;2;PL
+koristama	oleksite koristanud	V;ACT;PRS;PRF;POS;COND;2;PL
 koristama	koristav	V.PTCP;ACT;PRS
 koristama	koristagu	V;ACT;PRS;POS;IMP;3;SG
 koristama	koristama	V;NFIN
@@ -9986,7 +9986,7 @@ korjama	olid korjanud	V;ACT;PRS;PRF;POS;COND;2;SG
 korjama	korjavad	V;ACT;PRS;POS;IND;3;PL
 korjama	olite korjanud	V;ACT;PRS;PRF;POS;COND;2;PL
 korjama	ei korjatud	V;PASS;PST;NEG;IND
-korjama	oleksite korjanud	V;ACT;PRS;PRF:POS;COND;2;PL
+korjama	oleksite korjanud	V;ACT;PRS;PRF;POS;COND;2;PL
 korjama	korjav	V.PTCP;ACT;PRS
 korjama	korjaku	V;ACT;PRS;POS;IMP;3;SG
 korjama	korjama	V;NFIN
@@ -10351,7 +10351,7 @@ kustutama	olid kustutanud	V;ACT;PRS;PRF;POS;COND;2;SG
 kustutama	kustutavad	V;ACT;PRS;POS;IND;3;PL
 kustutama	olite kustutanud	V;ACT;PRS;PRF;POS;COND;2;PL
 kustutama	ei kustutatud	V;PASS;PST;NEG;IND
-kustutama	oleksite kustutanud	V;ACT;PRS;PRF:POS;COND;2;PL
+kustutama	oleksite kustutanud	V;ACT;PRS;PRF;POS;COND;2;PL
 kustutama	kustutav	V.PTCP;ACT;PRS
 kustutama	kustutagu	V;ACT;PRS;POS;IMP;3;SG
 kustutama	kustutama	V;NFIN
@@ -10437,7 +10437,7 @@ kuulma	olid kuulnud	V;ACT;PRS;PRF;POS;COND;2;SG
 kuulma	kuulevad	V;ACT;PRS;POS;IND;3;PL
 kuulma	olite kuulnud	V;ACT;PRS;PRF;POS;COND;2;PL
 kuulma	ei kuuldud	V;PASS;PST;NEG;IND
-kuulma	oleksite kuulnud	V;ACT;PRS;PRF:POS;COND;2;PL
+kuulma	oleksite kuulnud	V;ACT;PRS;PRF;POS;COND;2;PL
 kuulma	kuulev	V.PTCP;ACT;PRS
 kuulma	kuulgu	V;ACT;PRS;POS;IMP;3;SG
 kuulma	kuulma	V;NFIN
@@ -10523,7 +10523,7 @@ kuulutama	olid kuulutanud	V;ACT;PRS;PRF;POS;COND;2;SG
 kuulutama	kuulutavad	V;ACT;PRS;POS;IND;3;PL
 kuulutama	olite kuulutanud	V;ACT;PRS;PRF;POS;COND;2;PL
 kuulutama	ei kuulutatud	V;PASS;PST;NEG;IND
-kuulutama	oleksite kuulutanud	V;ACT;PRS;PRF:POS;COND;2;PL
+kuulutama	oleksite kuulutanud	V;ACT;PRS;PRF;POS;COND;2;PL
 kuulutama	kuulutav	V.PTCP;ACT;PRS
 kuulutama	kuulutagu	V;ACT;PRS;POS;IMP;3;SG
 kuulutama	kuulutama	V;NFIN
@@ -10640,7 +10640,7 @@ käima	olid käinud	V;ACT;PRS;PRF;POS;COND;2;SG
 käima	käivad	V;ACT;PRS;POS;IND;3;PL
 käima	olite käinud	V;ACT;PRS;PRF;POS;COND;2;PL
 käima	ei käidud	V;PASS;PST;NEG;IND
-käima	oleksite käinud	V;ACT;PRS;PRF:POS;COND;2;PL
+käima	oleksite käinud	V;ACT;PRS;PRF;POS;COND;2;PL
 käima	käiv	V.PTCP;ACT;PRS
 käima	käigu	V;ACT;PRS;POS;IMP;3;SG
 käima	käima	V;NFIN
@@ -10726,7 +10726,7 @@ käituma	olid käitunud	V;ACT;PRS;PRF;POS;COND;2;SG
 käituma	käituvad	V;ACT;PRS;POS;IND;3;PL
 käituma	olite käitunud	V;ACT;PRS;PRF;POS;COND;2;PL
 käituma	ei käitutud	V;PASS;PST;NEG;IND
-käituma	oleksite käitunud	V;ACT;PRS;PRF:POS;COND;2;PL
+käituma	oleksite käitunud	V;ACT;PRS;PRF;POS;COND;2;PL
 käituma	käituv	V.PTCP;ACT;PRS
 käituma	käitugu	V;ACT;PRS;POS;IMP;3;SG
 käituma	käituma	V;NFIN
@@ -10905,7 +10905,7 @@ käsitlema	olid käsitlenud	V;ACT;PRS;PRF;POS;COND;2;SG
 käsitlema	käsitlevad	V;ACT;PRS;POS;IND;3;PL
 käsitlema	olite käsitlenud	V;ACT;PRS;PRF;POS;COND;2;PL
 käsitlema	ei käsitletud	V;PASS;PST;NEG;IND
-käsitlema	oleksite käsitlenud	V;ACT;PRS;PRF:POS;COND;2;PL
+käsitlema	oleksite käsitlenud	V;ACT;PRS;PRF;POS;COND;2;PL
 käsitlema	käsitlev	V.PTCP;ACT;PRS
 käsitlema	käsitlegu	V;ACT;PRS;POS;IMP;3;SG
 käsitlema	käsitlema	V;NFIN
@@ -11022,7 +11022,7 @@ käskima	olid käskinud	V;ACT;PRS;PRF;POS;COND;2;SG
 käskima	käsivad	V;ACT;PRS;POS;IND;3;PL
 käskima	olite käskinud	V;ACT;PRS;PRF;POS;COND;2;PL
 käskima	ei käsitud	V;PASS;PST;NEG;IND
-käskima	oleksite käskinud	V;ACT;PRS;PRF:POS;COND;2;PL
+käskima	oleksite käskinud	V;ACT;PRS;PRF;POS;COND;2;PL
 käskima	käskiv	V.PTCP;ACT;PRS
 käskima	käskigu	V;ACT;PRS;POS;IMP;3;SG
 käskima	käskima	V;NFIN
@@ -11201,7 +11201,7 @@ kõndima	olid kõndinud	V;ACT;PRS;PRF;POS;COND;2;SG
 kõndima	kõnnivad	V;ACT;PRS;POS;IND;3;PL
 kõndima	olite kõndinud	V;ACT;PRS;PRF;POS;COND;2;PL
 kõndima	ei kõnnitud	V;PASS;PST;NEG;IND
-kõndima	oleksite kõndinud	V;ACT;PRS;PRF:POS;COND;2;PL
+kõndima	oleksite kõndinud	V;ACT;PRS;PRF;POS;COND;2;PL
 kõndima	kõndiv	V.PTCP;ACT;PRS
 kõndima	kõndigu	V;ACT;PRS;POS;IMP;3;SG
 kõndima	kõndima	V;NFIN
@@ -11318,7 +11318,7 @@ külastama	olid külastanud	V;ACT;PRS;PRF;POS;COND;2;SG
 külastama	külastavad	V;ACT;PRS;POS;IND;3;PL
 külastama	olite külastanud	V;ACT;PRS;PRF;POS;COND;2;PL
 külastama	ei külastatud	V;PASS;PST;NEG;IND
-külastama	oleksite külastanud	V;ACT;PRS;PRF:POS;COND;2;PL
+külastama	oleksite külastanud	V;ACT;PRS;PRF;POS;COND;2;PL
 külastama	külastav	V.PTCP;ACT;PRS
 külastama	külastagu	V;ACT;PRS;POS;IMP;3;SG
 külastama	külastama	V;NFIN
@@ -11435,7 +11435,7 @@ küsima	olid küsinud	V;ACT;PRS;PRF;POS;COND;2;SG
 küsima	küsivad	V;ACT;PRS;POS;IND;3;PL
 küsima	olite küsinud	V;ACT;PRS;PRF;POS;COND;2;PL
 küsima	ei küsitud	V;PASS;PST;NEG;IND
-küsima	oleksite küsinud	V;ACT;PRS;PRF:POS;COND;2;PL
+küsima	oleksite küsinud	V;ACT;PRS;PRF;POS;COND;2;PL
 küsima	küsiv	V.PTCP;ACT;PRS
 küsima	küsigu	V;ACT;PRS;POS;IMP;3;SG
 küsima	küsima	V;NFIN
@@ -11552,7 +11552,7 @@ kütma	olid kütnud	V;ACT;PRS;PRF;POS;COND;2;SG
 kütma	kütavad	V;ACT;PRS;POS;IND;3;PL
 kütma	olite kütnud	V;ACT;PRS;PRF;POS;COND;2;PL
 kütma	ei kütetud	V;PASS;PST;NEG;IND
-kütma	oleksite kütnud	V;ACT;PRS;PRF:POS;COND;2;PL
+kütma	oleksite kütnud	V;ACT;PRS;PRF;POS;COND;2;PL
 kütma	küttev	V.PTCP;ACT;PRS
 kütma	kütku	V;ACT;PRS;POS;IMP;3;SG
 kütma	kütma	V;NFIN
@@ -11824,7 +11824,7 @@ lahkuma	olid lahkunud	V;ACT;PRS;PRF;POS;COND;2;SG
 lahkuma	lahkuvad	V;ACT;PRS;POS;IND;3;PL
 lahkuma	olite lahkunud	V;ACT;PRS;PRF;POS;COND;2;PL
 lahkuma	ei lahkutud	V;PASS;PST;NEG;IND
-lahkuma	oleksite lahkunud	V;ACT;PRS;PRF:POS;COND;2;PL
+lahkuma	oleksite lahkunud	V;ACT;PRS;PRF;POS;COND;2;PL
 lahkuma	lahkuv	V.PTCP;ACT;PRS
 lahkuma	lahkugu	V;ACT;PRS;POS;IMP;3;SG
 lahkuma	lahkuma	V;NFIN
@@ -11910,7 +11910,7 @@ langema	olid langenud	V;ACT;PRS;PRF;POS;COND;2;SG
 langema	langevad	V;ACT;PRS;POS;IND;3;PL
 langema	olite langenud	V;ACT;PRS;PRF;POS;COND;2;PL
 langema	ei langetud	V;PASS;PST;NEG;IND
-langema	oleksite langenud	V;ACT;PRS;PRF:POS;COND;2;PL
+langema	oleksite langenud	V;ACT;PRS;PRF;POS;COND;2;PL
 langema	langev	V.PTCP;ACT;PRS
 langema	langegu	V;ACT;PRS;POS;IMP;3;SG
 langema	langema	V;NFIN
@@ -12058,7 +12058,7 @@ laulma	olid laulnud	V;ACT;PRS;PRF;POS;COND;2;SG
 laulma	laulavad	V;ACT;PRS;POS;IND;3;PL
 laulma	olite laulnud	V;ACT;PRS;PRF;POS;COND;2;PL
 laulma	ei lauldud	V;PASS;PST;NEG;IND
-laulma	oleksite laulnud	V;ACT;PRS;PRF:POS;COND;2;PL
+laulma	oleksite laulnud	V;ACT;PRS;PRF;POS;COND;2;PL
 laulma	laulev	V.PTCP;ACT;PRS
 laulma	laulgu	V;ACT;PRS;POS;IMP;3;SG
 laulma	laulma	V;NFIN
@@ -12175,7 +12175,7 @@ lavastama	olid lavastanud	V;ACT;PRS;PRF;POS;COND;2;SG
 lavastama	lavastavad	V;ACT;PRS;POS;IND;3;PL
 lavastama	olite lavastanud	V;ACT;PRS;PRF;POS;COND;2;PL
 lavastama	ei lavastatud	V;PASS;PST;NEG;IND
-lavastama	oleksite lavastanud	V;ACT;PRS;PRF:POS;COND;2;PL
+lavastama	oleksite lavastanud	V;ACT;PRS;PRF;POS;COND;2;PL
 lavastama	lavastav	V.PTCP;ACT;PRS
 lavastama	lavastagu	V;ACT;PRS;POS;IMP;3;SG
 lavastama	lavastama	V;NFIN
@@ -12292,7 +12292,7 @@ lebama	olid lebanud	V;ACT;PRS;PRF;POS;COND;2;SG
 lebama	lebavad	V;ACT;PRS;POS;IND;3;PL
 lebama	olite lebanud	V;ACT;PRS;PRF;POS;COND;2;PL
 lebama	ei lebatud	V;PASS;PST;NEG;IND
-lebama	oleksite lebanud	V;ACT;PRS;PRF:POS;COND;2;PL
+lebama	oleksite lebanud	V;ACT;PRS;PRF;POS;COND;2;PL
 lebama	lebav	V.PTCP;ACT;PRS
 lebama	lebagu	V;ACT;PRS;POS;IMP;3;SG
 lebama	lebama	V;NFIN
@@ -12533,7 +12533,7 @@ leidma	olid leidnud	V;ACT;PRS;PRF;POS;COND;2;SG
 leidma	leiavad	V;ACT;PRS;POS;IND;3;PL
 leidma	olite leidnud	V;ACT;PRS;PRF;POS;COND;2;PL
 leidma	ei leietud	V;PASS;PST;NEG;IND
-leidma	oleksite leidnud	V;ACT;PRS;PRF:POS;COND;2;PL
+leidma	oleksite leidnud	V;ACT;PRS;PRF;POS;COND;2;PL
 leidma	leidev	V.PTCP;ACT;PRS
 leidma	leidku	V;ACT;PRS;POS;IMP;3;SG
 leidma	leidma	V;NFIN
@@ -12681,7 +12681,7 @@ lendama	olid lennanud	V;ACT;PRS;PRF;POS;COND;2;SG
 lendama	lendavad	V;ACT;PRS;POS;IND;3;PL
 lendama	olite lennanud	V;ACT;PRS;PRF;POS;COND;2;PL
 lendama	ei lennatud	V;PASS;PST;NEG;IND
-lendama	oleksite lennanud	V;ACT;PRS;PRF:POS;COND;2;PL
+lendama	oleksite lennanud	V;ACT;PRS;PRF;POS;COND;2;PL
 lendama	lendav	V.PTCP;ACT;PRS
 lendama	lennaku	V;ACT;PRS;POS;IMP;3;SG
 lendama	lendama	V;NFIN
@@ -12922,7 +12922,7 @@ liibuma	olid liibunud	V;ACT;PRS;PRF;POS;COND;2;SG
 liibuma	liibuvad	V;ACT;PRS;POS;IND;3;PL
 liibuma	olite liibunud	V;ACT;PRS;PRF;POS;COND;2;PL
 liibuma	ei liibutud	V;PASS;PST;NEG;IND
-liibuma	oleksite liibunud	V;ACT;PRS;PRF:POS;COND;2;PL
+liibuma	oleksite liibunud	V;ACT;PRS;PRF;POS;COND;2;PL
 liibuma	liibuv	V.PTCP;ACT;PRS
 liibuma	liibugu	V;ACT;PRS;POS;IMP;3;SG
 liibuma	liibuma	V;NFIN
@@ -13101,7 +13101,7 @@ lintšima	olid lintšinud	V;ACT;PRS;PRF;POS;COND;2;SG
 lintšima	lintšivad	V;ACT;PRS;POS;IND;3;PL
 lintšima	olite lintšinud	V;ACT;PRS;PRF;POS;COND;2;PL
 lintšima	ei lintšitud	V;PASS;PST;NEG;IND
-lintšima	oleksite lintšinud	V;ACT;PRS;PRF:POS;COND;2;PL
+lintšima	oleksite lintšinud	V;ACT;PRS;PRF;POS;COND;2;PL
 lintšima	lintšiv	V.PTCP;ACT;PRS
 lintšima	lintšigu	V;ACT;PRS;POS;IMP;3;SG
 lintšima	lintšima	V;NFIN
@@ -13187,7 +13187,7 @@ loendama	olid loendanud	V;ACT;PRS;PRF;POS;COND;2;SG
 loendama	loendavad	V;ACT;PRS;POS;IND;3;PL
 loendama	olite loendanud	V;ACT;PRS;PRF;POS;COND;2;PL
 loendama	ei loendatud	V;PASS;PST;NEG;IND
-loendama	oleksite loendanud	V;ACT;PRS;PRF:POS;COND;2;PL
+loendama	oleksite loendanud	V;ACT;PRS;PRF;POS;COND;2;PL
 loendama	loendav	V.PTCP;ACT;PRS
 loendama	loendagu	V;ACT;PRS;POS;IMP;3;SG
 loendama	loendama	V;NFIN
@@ -13304,7 +13304,7 @@ looma	olid loonud	V;ACT;PRS;PRF;POS;COND;2;SG
 looma	loovad	V;ACT;PRS;POS;IND;3;PL
 looma	olite loonud	V;ACT;PRS;PRF;POS;COND;2;PL
 looma	ei loodud	V;PASS;PST;NEG;IND
-looma	oleksite loonud	V;ACT;PRS;PRF:POS;COND;2;PL
+looma	oleksite loonud	V;ACT;PRS;PRF;POS;COND;2;PL
 looma	loov	V.PTCP;ACT;PRS
 looma	loogu	V;ACT;PRS;POS;IMP;3;SG
 looma	looma	V;NFIN
@@ -13390,7 +13390,7 @@ lootma	olid lootnud	V;ACT;PRS;PRF;POS;COND;2;SG
 lootma	loodavad	V;ACT;PRS;POS;IND;3;PL
 lootma	olite lootnud	V;ACT;PRS;PRF;POS;COND;2;PL
 lootma	ei loodetud	V;PASS;PST;NEG;IND
-lootma	oleksite lootnud	V;ACT;PRS;PRF:POS;COND;2;PL
+lootma	oleksite lootnud	V;ACT;PRS;PRF;POS;COND;2;PL
 lootma	lootev	V.PTCP;ACT;PRS
 lootma	lootku	V;ACT;PRS;POS;IMP;3;SG
 lootma	lootma	V;NFIN
@@ -13476,7 +13476,7 @@ lugema	olid lugenud	V;ACT;PRS;PRF;POS;COND;2;SG
 lugema	loevad	V;ACT;PRS;POS;IND;3;PL
 lugema	olite lugenud	V;ACT;PRS;PRF;POS;COND;2;PL
 lugema	ei loetud	V;PASS;PST;NEG;IND
-lugema	oleksite lugenud	V;ACT;PRS;PRF:POS;COND;2;PL
+lugema	oleksite lugenud	V;ACT;PRS;PRF;POS;COND;2;PL
 lugema	lugev	V.PTCP;ACT;PRS
 lugema	lugegu	V;ACT;PRS;POS;IMP;3;SG
 lugema	lugema	V;NFIN
@@ -13655,7 +13655,7 @@ läbistama	olid läbistanud	V;ACT;PRS;PRF;POS;COND;2;SG
 läbistama	läbistavad	V;ACT;PRS;POS;IND;3;PL
 läbistama	olite läbistanud	V;ACT;PRS;PRF;POS;COND;2;PL
 läbistama	ei läbistatud	V;PASS;PST;NEG;IND
-läbistama	oleksite läbistanud	V;ACT;PRS;PRF:POS;COND;2;PL
+läbistama	oleksite läbistanud	V;ACT;PRS;PRF;POS;COND;2;PL
 läbistama	läbistav	V.PTCP;ACT;PRS
 läbistama	läbistagu	V;ACT;PRS;POS;IMP;3;SG
 läbistama	läbistama	V;NFIN
@@ -13834,7 +13834,7 @@ lõpetama	olid lõpetanud	V;ACT;PRS;PRF;POS;COND;2;SG
 lõpetama	lõpetavad	V;ACT;PRS;POS;IND;3;PL
 lõpetama	olite lõpetanud	V;ACT;PRS;PRF;POS;COND;2;PL
 lõpetama	ei lõpetatud	V;PASS;PST;NEG;IND
-lõpetama	oleksite lõpetanud	V;ACT;PRS;PRF:POS;COND;2;PL
+lõpetama	oleksite lõpetanud	V;ACT;PRS;PRF;POS;COND;2;PL
 lõpetama	lõpetav	V.PTCP;ACT;PRS
 lõpetama	lõpetagu	V;ACT;PRS;POS;IMP;3;SG
 lõpetama	lõpetama	V;NFIN
@@ -13951,7 +13951,7 @@ lööma	olid löönud	V;ACT;PRS;PRF;POS;COND;2;SG
 lööma	löövad	V;ACT;PRS;POS;IND;3;PL
 lööma	olite löönud	V;ACT;PRS;PRF;POS;COND;2;PL
 lööma	ei löödud	V;PASS;PST;NEG;IND
-lööma	oleksite löönud	V;ACT;PRS;PRF:POS;COND;2;PL
+lööma	oleksite löönud	V;ACT;PRS;PRF;POS;COND;2;PL
 lööma	lööv	V.PTCP;ACT;PRS
 lööma	löögu	V;ACT;PRS;POS;IMP;3;SG
 lööma	lööma	V;NFIN
@@ -14037,7 +14037,7 @@ lükkama	olid lükanud	V;ACT;PRS;PRF;POS;COND;2;SG
 lükkama	lükkavad	V;ACT;PRS;POS;IND;3;PL
 lükkama	olite lükanud	V;ACT;PRS;PRF;POS;COND;2;PL
 lükkama	ei lükatud	V;PASS;PST;NEG;IND
-lükkama	oleksite lükanud	V;ACT;PRS;PRF:POS;COND;2;PL
+lükkama	oleksite lükanud	V;ACT;PRS;PRF;POS;COND;2;PL
 lükkama	lükkav	V.PTCP;ACT;PRS
 lükkama	lükaku	V;ACT;PRS;POS;IMP;3;SG
 lükkama	lükkama	V;NFIN
@@ -14247,7 +14247,7 @@ magama	olid maganud	V;ACT;PRS;PRF;POS;COND;2;SG
 magama	magavad	V;ACT;PRS;POS;IND;3;PL
 magama	olite maganud	V;ACT;PRS;PRF;POS;COND;2;PL
 magama	ei magatud	V;PASS;PST;NEG;IND
-magama	oleksite maganud	V;ACT;PRS;PRF:POS;COND;2;PL
+magama	oleksite maganud	V;ACT;PRS;PRF;POS;COND;2;PL
 magama	magav	V.PTCP;ACT;PRS
 magama	magagu	V;ACT;PRS;POS;IMP;3;SG
 magama	magama	V;NFIN
@@ -14364,7 +14364,7 @@ magustama	olid magustanud	V;ACT;PRS;PRF;POS;COND;2;SG
 magustama	magustavad	V;ACT;PRS;POS;IND;3;PL
 magustama	olite magustanud	V;ACT;PRS;PRF;POS;COND;2;PL
 magustama	ei magustatud	V;PASS;PST;NEG;IND
-magustama	oleksite magustanud	V;ACT;PRS;PRF:POS;COND;2;PL
+magustama	oleksite magustanud	V;ACT;PRS;PRF;POS;COND;2;PL
 magustama	magustav	V.PTCP;ACT;PRS
 magustama	magustagu	V;ACT;PRS;POS;IMP;3;SG
 magustama	magustama	V;NFIN
@@ -14853,7 +14853,7 @@ masturbeerima	olid masturbeerinud	V;ACT;PRS;PRF;POS;COND;2;SG
 masturbeerima	masturbeerivad	V;ACT;PRS;POS;IND;3;PL
 masturbeerima	olite masturbeerinud	V;ACT;PRS;PRF;POS;COND;2;PL
 masturbeerima	ei masturbeeritud	V;PASS;PST;NEG;IND
-masturbeerima	oleksite masturbeerinud	V;ACT;PRS;PRF:POS;COND;2;PL
+masturbeerima	oleksite masturbeerinud	V;ACT;PRS;PRF;POS;COND;2;PL
 masturbeerima	masturbeeriv	V.PTCP;ACT;PRS
 masturbeerima	masturbeerigu	V;ACT;PRS;POS;IMP;3;SG
 masturbeerima	masturbeerima	V;NFIN
@@ -15001,7 +15001,7 @@ meeldima	olid meeldinud	V;ACT;PRS;PRF;POS;COND;2;SG
 meeldima	meeldivad	V;ACT;PRS;POS;IND;3;PL
 meeldima	olite meeldinud	V;ACT;PRS;PRF;POS;COND;2;PL
 meeldima	ei meelditud	V;PASS;PST;NEG;IND
-meeldima	oleksite meeldinud	V;ACT;PRS;PRF:POS;COND;2;PL
+meeldima	oleksite meeldinud	V;ACT;PRS;PRF;POS;COND;2;PL
 meeldima	meeldiv	V.PTCP;ACT;PRS
 meeldima	meeldigu	V;ACT;PRS;POS;IMP;3;SG
 meeldima	meeldima	V;NFIN
@@ -15366,7 +15366,7 @@ minema	olid läinud	V;ACT;PRS;PRF;POS;COND;2;SG
 minema	lähevad	V;ACT;PRS;POS;IND;3;PL
 minema	olite läinud	V;ACT;PRS;PRF;POS;COND;2;PL
 minema	ei mindud	V;PASS;PST;NEG;IND
-minema	oleksite läinud	V;ACT;PRS;PRF:POS;COND;2;PL
+minema	oleksite läinud	V;ACT;PRS;PRF;POS;COND;2;PL
 minema	minev	V.PTCP;ACT;PRS
 minema	mingu	V;ACT;PRS;POS;IMP;3;SG
 minema	minema	V;NFIN
@@ -15638,7 +15638,7 @@ murdma	olid murdnud	V;ACT;PRS;PRF;POS;COND;2;SG
 murdma	murravad	V;ACT;PRS;POS;IND;3;PL
 murdma	olite murdnud	V;ACT;PRS;PRF;POS;COND;2;PL
 murdma	ei murretud	V;PASS;PST;NEG;IND
-murdma	oleksite murdnud	V;ACT;PRS;PRF:POS;COND;2;PL
+murdma	oleksite murdnud	V;ACT;PRS;PRF;POS;COND;2;PL
 murdma	murdev	V.PTCP;ACT;PRS
 murdma	murdku	V;ACT;PRS;POS;IMP;3;SG
 murdma	murdma	V;NFIN
@@ -15724,7 +15724,7 @@ muretsema	olid muretsenud	V;ACT;PRS;PRF;POS;COND;2;SG
 muretsema	muretsevad	V;ACT;PRS;POS;IND;3;PL
 muretsema	olite muretsenud	V;ACT;PRS;PRF;POS;COND;2;PL
 muretsema	ei muretsetud	V;PASS;PST;NEG;IND
-muretsema	oleksite muretsenud	V;ACT;PRS;PRF:POS;COND;2;PL
+muretsema	oleksite muretsenud	V;ACT;PRS;PRF;POS;COND;2;PL
 muretsema	muretsev	V.PTCP;ACT;PRS
 muretsema	muretsegu	V;ACT;PRS;POS;IMP;3;SG
 muretsema	muretsema	V;NFIN
@@ -15996,7 +15996,7 @@ muutma	olid muutnud	V;ACT;PRS;PRF;POS;COND;2;SG
 muutma	muudavad	V;ACT;PRS;POS;IND;3;PL
 muutma	olite muutnud	V;ACT;PRS;PRF;POS;COND;2;PL
 muutma	ei muudetud	V;PASS;PST;NEG;IND
-muutma	oleksite muutnud	V;ACT;PRS;PRF:POS;COND;2;PL
+muutma	oleksite muutnud	V;ACT;PRS;PRF;POS;COND;2;PL
 muutma	muutev	V.PTCP;ACT;PRS
 muutma	muutku	V;ACT;PRS;POS;IMP;3;SG
 muutma	muutma	V;NFIN
@@ -16237,7 +16237,7 @@ märkima	olid märkinud	V;ACT;PRS;PRF;POS;COND;2;SG
 märkima	märgivad	V;ACT;PRS;POS;IND;3;PL
 märkima	olite märkinud	V;ACT;PRS;PRF;POS;COND;2;PL
 märkima	ei märgitud	V;PASS;PST;NEG;IND
-märkima	oleksite märkinud	V;ACT;PRS;PRF:POS;COND;2;PL
+märkima	oleksite märkinud	V;ACT;PRS;PRF;POS;COND;2;PL
 märkima	märkiv	V.PTCP;ACT;PRS
 märkima	märkigu	V;ACT;PRS;POS;IMP;3;SG
 märkima	märkima	V;NFIN
@@ -16354,7 +16354,7 @@ mõistma	olid mõistnud	V;ACT;PRS;PRF;POS;COND;2;SG
 mõistma	mõistavad	V;ACT;PRS;POS;IND;3;PL
 mõistma	olite mõistnud	V;ACT;PRS;PRF;POS;COND;2;PL
 mõistma	ei mõistetud	V;PASS;PST;NEG;IND
-mõistma	oleksite mõistnud	V;ACT;PRS;PRF:POS;COND;2;PL
+mõistma	oleksite mõistnud	V;ACT;PRS;PRF;POS;COND;2;PL
 mõistma	mõistev	V.PTCP;ACT;PRS
 mõistma	mõistku	V;ACT;PRS;POS;IMP;3;SG
 mõistma	mõistma	V;NFIN
@@ -16657,7 +16657,7 @@ naasma	olid naasnud	V;ACT;PRS;PRF;POS;COND;2;SG
 naasma	naasevad	V;ACT;PRS;POS;IND;3;PL
 naasma	olite naasnud	V;ACT;PRS;PRF;POS;COND;2;PL
 naasma	ei naastud	V;PASS;PST;NEG;IND
-naasma	oleksite naasnud	V;ACT;PRS;PRF:POS;COND;2;PL
+naasma	oleksite naasnud	V;ACT;PRS;PRF;POS;COND;2;PL
 naasma	naasev	V.PTCP;ACT;PRS
 naasma	naasku	V;ACT;PRS;POS;IMP;3;SG
 naasma	naasma	V;NFIN
@@ -16774,7 +16774,7 @@ naerma	olid naernud	V;ACT;PRS;PRF;POS;COND;2;SG
 naerma	naeravad	V;ACT;PRS;POS;IND;3;PL
 naerma	olite naernud	V;ACT;PRS;PRF;POS;COND;2;PL
 naerma	ei naerdud	V;PASS;PST;NEG;IND
-naerma	oleksite naernud	V;ACT;PRS;PRF:POS;COND;2;PL
+naerma	oleksite naernud	V;ACT;PRS;PRF;POS;COND;2;PL
 naerma	naerev	V.PTCP;ACT;PRS
 naerma	naergu	V;ACT;PRS;POS;IMP;3;SG
 naerma	naerma	V;NFIN
@@ -17015,7 +17015,7 @@ niisutama	olid niisutanud	V;ACT;PRS;PRF;POS;COND;2;SG
 niisutama	niisutavad	V;ACT;PRS;POS;IND;3;PL
 niisutama	olite niisutanud	V;ACT;PRS;PRF;POS;COND;2;PL
 niisutama	ei niisutatud	V;PASS;PST;NEG;IND
-niisutama	oleksite niisutanud	V;ACT;PRS;PRF:POS;COND;2;PL
+niisutama	oleksite niisutanud	V;ACT;PRS;PRF;POS;COND;2;PL
 niisutama	niisutav	V.PTCP;ACT;PRS
 niisutama	niisutagu	V;ACT;PRS;POS;IMP;3;SG
 niisutama	niisutama	V;NFIN
@@ -17132,7 +17132,7 @@ nikkuma	olid nikkunud	V;ACT;PRS;PRF;POS;COND;2;SG
 nikkuma	nikuvad	V;ACT;PRS;POS;IND;3;PL
 nikkuma	olite nikkunud	V;ACT;PRS;PRF;POS;COND;2;PL
 nikkuma	ei nikutud	V;PASS;PST;NEG;IND
-nikkuma	oleksite nikkunud	V;ACT;PRS;PRF:POS;COND;2;PL
+nikkuma	oleksite nikkunud	V;ACT;PRS;PRF;POS;COND;2;PL
 nikkuma	nikkuv	V.PTCP;ACT;PRS
 nikkuma	nikkugu	V;ACT;PRS;POS;IMP;3;SG
 nikkuma	nikkuma	V;NFIN
@@ -17373,7 +17373,7 @@ nokkima	olid nokkinud	V;ACT;PRS;PRF;POS;COND;2;SG
 nokkima	nokivad	V;ACT;PRS;POS;IND;3;PL
 nokkima	olite nokkinud	V;ACT;PRS;PRF;POS;COND;2;PL
 nokkima	ei nokitud	V;PASS;PST;NEG;IND
-nokkima	oleksite nokkinud	V;ACT;PRS;PRF:POS;COND;2;PL
+nokkima	oleksite nokkinud	V;ACT;PRS;PRF;POS;COND;2;PL
 nokkima	nokkiv	V.PTCP;ACT;PRS
 nokkima	nokkigu	V;ACT;PRS;POS;IMP;3;SG
 nokkima	nokkima	V;NFIN
@@ -17552,7 +17552,7 @@ nussima	olid nussinud	V;ACT;PRS;PRF;POS;COND;2;SG
 nussima	nussivad	V;ACT;PRS;POS;IND;3;PL
 nussima	olite nussinud	V;ACT;PRS;PRF;POS;COND;2;PL
 nussima	ei nussitud	V;PASS;PST;NEG;IND
-nussima	oleksite nussinud	V;ACT;PRS;PRF:POS;COND;2;PL
+nussima	oleksite nussinud	V;ACT;PRS;PRF;POS;COND;2;PL
 nussima	nussiv	V.PTCP;ACT;PRS
 nussima	nussigu	V;ACT;PRS;POS;IMP;3;SG
 nussima	nussima	V;NFIN
@@ -17638,7 +17638,7 @@ nutma	olid nutnud	V;ACT;PRS;PRF;POS;COND;2;SG
 nutma	nutavad	V;ACT;PRS;POS;IND;3;PL
 nutma	olite nutnud	V;ACT;PRS;PRF;POS;COND;2;PL
 nutma	ei nutetud	V;PASS;PST;NEG;IND
-nutma	oleksite nutnud	V;ACT;PRS;PRF:POS;COND;2;PL
+nutma	oleksite nutnud	V;ACT;PRS;PRF;POS;COND;2;PL
 nutma	nuttev	V.PTCP;ACT;PRS
 nutma	nutku	V;ACT;PRS;POS;IMP;3;SG
 nutma	nutma	V;NFIN
@@ -17755,7 +17755,7 @@ nägema	olid näinud	V;ACT;PRS;PRF;POS;COND;2;SG
 nägema	näevad	V;ACT;PRS;POS;IND;3;PL
 nägema	olite näinud	V;ACT;PRS;PRF;POS;COND;2;PL
 nägema	ei nähtud	V;PASS;PST;NEG;IND
-nägema	oleksite näinud	V;ACT;PRS;PRF:POS;COND;2;PL
+nägema	oleksite näinud	V;ACT;PRS;PRF;POS;COND;2;PL
 nägema	nägev	V.PTCP;ACT;PRS
 nägema	nähku	V;ACT;PRS;POS;IMP;3;SG
 nägema	nägema	V;NFIN
@@ -17965,7 +17965,7 @@ närima	olid närinud	V;ACT;PRS;PRF;POS;COND;2;SG
 närima	närivad	V;ACT;PRS;POS;IND;3;PL
 närima	olite närinud	V;ACT;PRS;PRF;POS;COND;2;PL
 närima	ei näritud	V;PASS;PST;NEG;IND
-närima	oleksite närinud	V;ACT;PRS;PRF:POS;COND;2;PL
+närima	oleksite närinud	V;ACT;PRS;PRF;POS;COND;2;PL
 närima	näriv	V.PTCP;ACT;PRS
 närima	närigu	V;ACT;PRS;POS;IMP;3;SG
 närima	närima	V;NFIN
@@ -18113,7 +18113,7 @@ nülgima	olid nülginud	V;ACT;PRS;PRF;POS;COND;2;SG
 nülgima	nülivad	V;ACT;PRS;POS;IND;3;PL
 nülgima	olite nülginud	V;ACT;PRS;PRF;POS;COND;2;PL
 nülgima	ei nülitud	V;PASS;PST;NEG;IND
-nülgima	oleksite nülginud	V;ACT;PRS;PRF:POS;COND;2;PL
+nülgima	oleksite nülginud	V;ACT;PRS;PRF;POS;COND;2;PL
 nülgima	nülgiv	V.PTCP;ACT;PRS
 nülgima	nülgigu	V;ACT;PRS;POS;IMP;3;SG
 nülgima	nülgima	V;NFIN
@@ -18323,7 +18323,7 @@ oksendama	olid oksendanud	V;ACT;PRS;PRF;POS;COND;2;SG
 oksendama	oksendavad	V;ACT;PRS;POS;IND;3;PL
 oksendama	olite oksendanud	V;ACT;PRS;PRF;POS;COND;2;PL
 oksendama	ei oksendatud	V;PASS;PST;NEG;IND
-oksendama	oleksite oksendanud	V;ACT;PRS;PRF:POS;COND;2;PL
+oksendama	oleksite oksendanud	V;ACT;PRS;PRF;POS;COND;2;PL
 oksendama	oksendav	V.PTCP;ACT;PRS
 oksendama	oksendagu	V;ACT;PRS;POS;IMP;3;SG
 oksendama	oksendama	V;NFIN
@@ -18471,7 +18471,7 @@ olema	olid olnud	V;ACT;PRS;PRF;POS;COND;2;SG
 olema	on	V;ACT;PRS;POS;IND;3;PL
 olema	olite olnud	V;ACT;PRS;PRF;POS;COND;2;PL
 olema	ei oldud	V;PASS;PST;NEG;IND
-olema	oleksite olnud	V;ACT;PRS;PRF:POS;COND;2;PL
+olema	oleksite olnud	V;ACT;PRS;PRF;POS;COND;2;PL
 olema	olev	V.PTCP;ACT;PRS
 olema	olgu	V;ACT;PRS;POS;IMP;3;SG
 olema	olema	V;NFIN
@@ -18557,7 +18557,7 @@ oletama	olid oletanud	V;ACT;PRS;PRF;POS;COND;2;SG
 oletama	oletavad	V;ACT;PRS;POS;IND;3;PL
 oletama	olite oletanud	V;ACT;PRS;PRF;POS;COND;2;PL
 oletama	ei oletatud	V;PASS;PST;NEG;IND
-oletama	oleksite oletanud	V;ACT;PRS;PRF:POS;COND;2;PL
+oletama	oleksite oletanud	V;ACT;PRS;PRF;POS;COND;2;PL
 oletama	oletav	V.PTCP;ACT;PRS
 oletama	oletagu	V;ACT;PRS;POS;IMP;3;SG
 oletama	oletama	V;NFIN
@@ -18767,7 +18767,7 @@ omama	olid omanud	V;ACT;PRS;PRF;POS;COND;2;SG
 omama	omavad	V;ACT;PRS;POS;IND;3;PL
 omama	olite omanud	V;ACT;PRS;PRF;POS;COND;2;PL
 omama	ei omatud	V;PASS;PST;NEG;IND
-omama	oleksite omanud	V;ACT;PRS;PRF:POS;COND;2;PL
+omama	oleksite omanud	V;ACT;PRS;PRF;POS;COND;2;PL
 omama	omav	V.PTCP;ACT;PRS
 omama	omagu	V;ACT;PRS;POS;IMP;3;SG
 omama	omama	V;NFIN
@@ -18853,7 +18853,7 @@ omandama	olid omandanud	V;ACT;PRS;PRF;POS;COND;2;SG
 omandama	omandavad	V;ACT;PRS;POS;IND;3;PL
 omandama	olite omandanud	V;ACT;PRS;PRF;POS;COND;2;PL
 omandama	ei omandatud	V;PASS;PST;NEG;IND
-omandama	oleksite omandanud	V;ACT;PRS;PRF:POS;COND;2;PL
+omandama	oleksite omandanud	V;ACT;PRS;PRF;POS;COND;2;PL
 omandama	omandav	V.PTCP;ACT;PRS
 omandama	omandagu	V;ACT;PRS;POS;IMP;3;SG
 omandama	omandama	V;NFIN
@@ -19032,7 +19032,7 @@ ootama	olid oodanud	V;ACT;PRS;PRF;POS;COND;2;SG
 ootama	ootavad	V;ACT;PRS;POS;IND;3;PL
 ootama	olite oodanud	V;ACT;PRS;PRF;POS;COND;2;PL
 ootama	ei oodatud	V;PASS;PST;NEG;IND
-ootama	oleksite oodanud	V;ACT;PRS;PRF:POS;COND;2;PL
+ootama	oleksite oodanud	V;ACT;PRS;PRF;POS;COND;2;PL
 ootama	ootav	V.PTCP;ACT;PRS
 ootama	oodaku	V;ACT;PRS;POS;IMP;3;SG
 ootama	ootama	V;NFIN
@@ -19304,7 +19304,7 @@ oskama	olid osanud	V;ACT;PRS;PRF;POS;COND;2;SG
 oskama	oskavad	V;ACT;PRS;POS;IND;3;PL
 oskama	olite osanud	V;ACT;PRS;PRF;POS;COND;2;PL
 oskama	ei osatud	V;PASS;PST;NEG;IND
-oskama	oleksite osanud	V;ACT;PRS;PRF:POS;COND;2;PL
+oskama	oleksite osanud	V;ACT;PRS;PRF;POS;COND;2;PL
 oskama	oskav	V.PTCP;ACT;PRS
 oskama	osaku	V;ACT;PRS;POS;IMP;3;SG
 oskama	oskama	V;NFIN
@@ -19421,7 +19421,7 @@ ostma	olid ostnud	V;ACT;PRS;PRF;POS;COND;2;SG
 ostma	ostavad	V;ACT;PRS;POS;IND;3;PL
 ostma	olite ostnud	V;ACT;PRS;PRF;POS;COND;2;PL
 ostma	ei ostetud	V;PASS;PST;NEG;IND
-ostma	oleksite ostnud	V;ACT;PRS;PRF:POS;COND;2;PL
+ostma	oleksite ostnud	V;ACT;PRS;PRF;POS;COND;2;PL
 ostma	ostev	V.PTCP;ACT;PRS
 ostma	ostku	V;ACT;PRS;POS;IMP;3;SG
 ostma	ostma	V;NFIN
@@ -19538,7 +19538,7 @@ otsima	olid otsinud	V;ACT;PRS;PRF;POS;COND;2;SG
 otsima	otsivad	V;ACT;PRS;POS;IND;3;PL
 otsima	olite otsinud	V;ACT;PRS;PRF;POS;COND;2;PL
 otsima	ei otsitud	V;PASS;PST;NEG;IND
-otsima	oleksite otsinud	V;ACT;PRS;PRF:POS;COND;2;PL
+otsima	oleksite otsinud	V;ACT;PRS;PRF;POS;COND;2;PL
 otsima	otsiv	V.PTCP;ACT;PRS
 otsima	otsigu	V;ACT;PRS;POS;IMP;3;SG
 otsima	otsima	V;NFIN
@@ -19655,7 +19655,7 @@ paarituma	olid paaritunud	V;ACT;PRS;PRF;POS;COND;2;SG
 paarituma	paarituvad	V;ACT;PRS;POS;IND;3;PL
 paarituma	olite paaritunud	V;ACT;PRS;PRF;POS;COND;2;PL
 paarituma	ei paaritutud	V;PASS;PST;NEG;IND
-paarituma	oleksite paaritunud	V;ACT;PRS;PRF:POS;COND;2;PL
+paarituma	oleksite paaritunud	V;ACT;PRS;PRF;POS;COND;2;PL
 paarituma	paarituv	V.PTCP;ACT;PRS
 paarituma	paaritugu	V;ACT;PRS;POS;IMP;3;SG
 paarituma	paarituma	V;NFIN
@@ -19834,7 +19834,7 @@ palataliseerima	olid palataliseerinud	V;ACT;PRS;PRF;POS;COND;2;SG
 palataliseerima	palataliseerivad	V;ACT;PRS;POS;IND;3;PL
 palataliseerima	olite palataliseerinud	V;ACT;PRS;PRF;POS;COND;2;PL
 palataliseerima	ei palataliseeritud	V;PASS;PST;NEG;IND
-palataliseerima	oleksite palataliseerinud	V;ACT;PRS;PRF:POS;COND;2;PL
+palataliseerima	oleksite palataliseerinud	V;ACT;PRS;PRF;POS;COND;2;PL
 palataliseerima	palataliseeriv	V.PTCP;ACT;PRS
 palataliseerima	palataliseerigu	V;ACT;PRS;POS;IMP;3;SG
 palataliseerima	palataliseerima	V;NFIN
@@ -19951,7 +19951,7 @@ paluma	olid palunud	V;ACT;PRS;PRF;POS;COND;2;SG
 paluma	paluvad	V;ACT;PRS;POS;IND;3;PL
 paluma	olite palunud	V;ACT;PRS;PRF;POS;COND;2;PL
 paluma	ei palutud	V;PASS;PST;NEG;IND
-paluma	oleksite palunud	V;ACT;PRS;PRF:POS;COND;2;PL
+paluma	oleksite palunud	V;ACT;PRS;PRF;POS;COND;2;PL
 paluma	paluv	V.PTCP;ACT;PRS
 paluma	palugu	V;ACT;PRS;POS;IMP;3;SG
 paluma	paluma	V;NFIN
@@ -20037,7 +20037,7 @@ panema	olid pannud	V;ACT;PRS;PRF;POS;COND;2;SG
 panema	panevad	V;ACT;PRS;POS;IND;3;PL
 panema	olite pannud	V;ACT;PRS;PRF;POS;COND;2;PL
 panema	ei pandud	V;PASS;PST;NEG;IND
-panema	oleksite pannud	V;ACT;PRS;PRF:POS;COND;2;PL
+panema	oleksite pannud	V;ACT;PRS;PRF;POS;COND;2;PL
 panema	panev	V.PTCP;ACT;PRS
 panema	pangu	V;ACT;PRS;POS;IMP;3;SG
 panema	panema	V;NFIN
@@ -20371,7 +20371,7 @@ peatama	olid peatanud	V;ACT;PRS;PRF;POS;COND;2;SG
 peatama	peatavad	V;ACT;PRS;POS;IND;3;PL
 peatama	olite peatanud	V;ACT;PRS;PRF;POS;COND;2;PL
 peatama	ei peatatud	V;PASS;PST;NEG;IND
-peatama	oleksite peatanud	V;ACT;PRS;PRF:POS;COND;2;PL
+peatama	oleksite peatanud	V;ACT;PRS;PRF;POS;COND;2;PL
 peatama	peatav	V.PTCP;ACT;PRS
 peatama	peatagu	V;ACT;PRS;POS;IMP;3;SG
 peatama	peatama	V;NFIN
@@ -20581,7 +20581,7 @@ peenendama	olid peenendanud	V;ACT;PRS;PRF;POS;COND;2;SG
 peenendama	peenendavad	V;ACT;PRS;POS;IND;3;PL
 peenendama	olite peenendanud	V;ACT;PRS;PRF;POS;COND;2;PL
 peenendama	ei peenendatud	V;PASS;PST;NEG;IND
-peenendama	oleksite peenendanud	V;ACT;PRS;PRF:POS;COND;2;PL
+peenendama	oleksite peenendanud	V;ACT;PRS;PRF;POS;COND;2;PL
 peenendama	peenendav	V.PTCP;ACT;PRS
 peenendama	peenendagu	V;ACT;PRS;POS;IMP;3;SG
 peenendama	peenendama	V;NFIN
@@ -20853,7 +20853,7 @@ pesema	olid pesnud	V;ACT;PRS;PRF;POS;COND;2;SG
 pesema	pesevad	V;ACT;PRS;POS;IND;3;PL
 pesema	olite pesnud	V;ACT;PRS;PRF;POS;COND;2;PL
 pesema	ei pestud	V;PASS;PST;NEG;IND
-pesema	oleksite pesnud	V;ACT;PRS;PRF:POS;COND;2;PL
+pesema	oleksite pesnud	V;ACT;PRS;PRF;POS;COND;2;PL
 pesema	pesev	V.PTCP;ACT;PRS
 pesema	pesku	V;ACT;PRS;POS;IMP;3;SG
 pesema	pesema	V;NFIN
@@ -20939,7 +20939,7 @@ petma	olid petnud	V;ACT;PRS;PRF;POS;COND;2;SG
 petma	petavad	V;ACT;PRS;POS;IND;3;PL
 petma	olite petnud	V;ACT;PRS;PRF;POS;COND;2;PL
 petma	ei petetud	V;PASS;PST;NEG;IND
-petma	oleksite petnud	V;ACT;PRS;PRF:POS;COND;2;PL
+petma	oleksite petnud	V;ACT;PRS;PRF;POS;COND;2;PL
 petma	pettev	V.PTCP;ACT;PRS
 petma	petku	V;ACT;PRS;POS;IMP;3;SG
 petma	petma	V;NFIN
@@ -21831,7 +21831,7 @@ puhuma	olid puhunud	V;ACT;PRS;PRF;POS;COND;2;SG
 puhuma	puhuvad	V;ACT;PRS;POS;IND;3;PL
 puhuma	olite puhunud	V;ACT;PRS;PRF;POS;COND;2;PL
 puhuma	ei puhutud	V;PASS;PST;NEG;IND
-puhuma	oleksite puhunud	V;ACT;PRS;PRF:POS;COND;2;PL
+puhuma	oleksite puhunud	V;ACT;PRS;PRF;POS;COND;2;PL
 puhuma	puhuv	V.PTCP;ACT;PRS
 puhuma	puhugu	V;ACT;PRS;POS;IMP;3;SG
 puhuma	puhuma	V;NFIN
@@ -21948,7 +21948,7 @@ purema	olid purenud	V;ACT;PRS;PRF;POS;COND;2;SG
 purema	purevad	V;ACT;PRS;POS;IND;3;PL
 purema	olite purenud	V;ACT;PRS;PRF;POS;COND;2;PL
 purema	ei puretud	V;PASS;PST;NEG;IND
-purema	oleksite purenud	V;ACT;PRS;PRF:POS;COND;2;PL
+purema	oleksite purenud	V;ACT;PRS;PRF;POS;COND;2;PL
 purema	purev	V.PTCP;ACT;PRS
 purema	puregu	V;ACT;PRS;POS;IMP;3;SG
 purema	purema	V;NFIN
@@ -22251,7 +22251,7 @@ põlema	olid põlenud	V;ACT;PRS;PRF;POS;COND;2;SG
 põlema	põlevad	V;ACT;PRS;POS;IND;3;PL
 põlema	olite põlenud	V;ACT;PRS;PRF;POS;COND;2;PL
 põlema	ei põletud	V;PASS;PST;NEG;IND
-põlema	oleksite põlenud	V;ACT;PRS;PRF:POS;COND;2;PL
+põlema	oleksite põlenud	V;ACT;PRS;PRF;POS;COND;2;PL
 põlema	põlev	V.PTCP;ACT;PRS
 põlema	põlegu	V;ACT;PRS;POS;IMP;3;SG
 põlema	põlema	V;NFIN
@@ -22337,7 +22337,7 @@ põletama	olid põletanud	V;ACT;PRS;PRF;POS;COND;2;SG
 põletama	põletavad	V;ACT;PRS;POS;IND;3;PL
 põletama	olite põletanud	V;ACT;PRS;PRF;POS;COND;2;PL
 põletama	ei põletatud	V;PASS;PST;NEG;IND
-põletama	oleksite põletanud	V;ACT;PRS;PRF:POS;COND;2;PL
+põletama	oleksite põletanud	V;ACT;PRS;PRF;POS;COND;2;PL
 põletama	põletav	V.PTCP;ACT;PRS
 põletama	põletagu	V;ACT;PRS;POS;IMP;3;SG
 põletama	põletama	V;NFIN
@@ -22485,7 +22485,7 @@ pöörama	olid pööranud	V;ACT;PRS;PRF;POS;COND;2;SG
 pöörama	pööravad	V;ACT;PRS;POS;IND;3;PL
 pöörama	olite pööranud	V;ACT;PRS;PRF;POS;COND;2;PL
 pöörama	ei pööratud	V;PASS;PST;NEG;IND
-pöörama	oleksite pööranud	V;ACT;PRS;PRF:POS;COND;2;PL
+pöörama	oleksite pööranud	V;ACT;PRS;PRF;POS;COND;2;PL
 pöörama	pöörav	V.PTCP;ACT;PRS
 pöörama	pööraku	V;ACT;PRS;POS;IMP;3;SG
 pöörama	pöörama	V;NFIN
@@ -22571,7 +22571,7 @@ pürgima	olid pürginud	V;ACT;PRS;PRF;POS;COND;2;SG
 pürgima	pürgivad	V;ACT;PRS;POS;IND;3;PL
 pürgima	olite pürginud	V;ACT;PRS;PRF;POS;COND;2;PL
 pürgima	ei pürgitud	V;PASS;PST;NEG;IND
-pürgima	oleksite pürginud	V;ACT;PRS;PRF:POS;COND;2;PL
+pürgima	oleksite pürginud	V;ACT;PRS;PRF;POS;COND;2;PL
 pürgima	pürgiv	V.PTCP;ACT;PRS
 pürgima	pürgigu	V;ACT;PRS;POS;IMP;3;SG
 pürgima	pürgima	V;NFIN
@@ -22688,7 +22688,7 @@ püüdma	olid püüdnud	V;ACT;PRS;PRF;POS;COND;2;SG
 püüdma	püüavad	V;ACT;PRS;POS;IND;3;PL
 püüdma	olite püüdnud	V;ACT;PRS;PRF;POS;COND;2;PL
 püüdma	ei püüetud	V;PASS;PST;NEG;IND
-püüdma	oleksite püüdnud	V;ACT;PRS;PRF:POS;COND;2;PL
+püüdma	oleksite püüdnud	V;ACT;PRS;PRF;POS;COND;2;PL
 püüdma	püüdev	V.PTCP;ACT;PRS
 püüdma	püüdku	V;ACT;PRS;POS;IMP;3;SG
 püüdma	püüdma	V;NFIN
@@ -23270,7 +23270,7 @@ reetma	olid reetnud	V;ACT;PRS;PRF;POS;COND;2;SG
 reetma	reedavad	V;ACT;PRS;POS;IND;3;PL
 reetma	olite reetnud	V;ACT;PRS;PRF;POS;COND;2;PL
 reetma	ei reedetud	V;PASS;PST;NEG;IND
-reetma	oleksite reetnud	V;ACT;PRS;PRF:POS;COND;2;PL
+reetma	oleksite reetnud	V;ACT;PRS;PRF;POS;COND;2;PL
 reetma	reetev	V.PTCP;ACT;PRS
 reetma	reetku	V;ACT;PRS;POS;IMP;3;SG
 reetma	reetma	V;NFIN
@@ -23418,7 +23418,7 @@ reisima	olid reisinud	V;ACT;PRS;PRF;POS;COND;2;SG
 reisima	reisivad	V;ACT;PRS;POS;IND;3;PL
 reisima	olite reisinud	V;ACT;PRS;PRF;POS;COND;2;PL
 reisima	ei reisitud	V;PASS;PST;NEG;IND
-reisima	oleksite reisinud	V;ACT;PRS;PRF:POS;COND;2;PL
+reisima	oleksite reisinud	V;ACT;PRS;PRF;POS;COND;2;PL
 reisima	reisiv	V.PTCP;ACT;PRS
 reisima	reisigu	V;ACT;PRS;POS;IMP;3;SG
 reisima	reisima	V;NFIN
@@ -23597,7 +23597,7 @@ rikastuma	olid rikastunud	V;ACT;PRS;PRF;POS;COND;2;SG
 rikastuma	rikastuvad	V;ACT;PRS;POS;IND;3;PL
 rikastuma	olite rikastunud	V;ACT;PRS;PRF;POS;COND;2;PL
 rikastuma	ei rikastutud	V;PASS;PST;NEG;IND
-rikastuma	oleksite rikastunud	V;ACT;PRS;PRF:POS;COND;2;PL
+rikastuma	oleksite rikastunud	V;ACT;PRS;PRF;POS;COND;2;PL
 rikastuma	rikastuv	V.PTCP;ACT;PRS
 rikastuma	rikastugu	V;ACT;PRS;POS;IMP;3;SG
 rikastuma	rikastuma	V;NFIN
@@ -23807,7 +23807,7 @@ roojama	olid roojanud	V;ACT;PRS;PRF;POS;COND;2;SG
 roojama	roojavad	V;ACT;PRS;POS;IND;3;PL
 roojama	olite roojanud	V;ACT;PRS;PRF;POS;COND;2;PL
 roojama	ei roojatud	V;PASS;PST;NEG;IND
-roojama	oleksite roojanud	V;ACT;PRS;PRF:POS;COND;2;PL
+roojama	oleksite roojanud	V;ACT;PRS;PRF;POS;COND;2;PL
 roojama	roojav	V.PTCP;ACT;PRS
 roojama	roojaku	V;ACT;PRS;POS;IMP;3;SG
 roojama	roojama	V;NFIN
@@ -24203,7 +24203,7 @@ rääkima	olid rääkinud	V;ACT;PRS;PRF;POS;COND;2;SG
 rääkima	räägivad	V;ACT;PRS;POS;IND;3;PL
 rääkima	olite rääkinud	V;ACT;PRS;PRF;POS;COND;2;PL
 rääkima	ei räägitud	V;PASS;PST;NEG;IND
-rääkima	oleksite rääkinud	V;ACT;PRS;PRF:POS;COND;2;PL
+rääkima	oleksite rääkinud	V;ACT;PRS;PRF;POS;COND;2;PL
 rääkima	rääkiv	V.PTCP;ACT;PRS
 rääkima	rääkigu	V;ACT;PRS;POS;IMP;3;SG
 rääkima	rääkima	V;NFIN
@@ -24351,7 +24351,7 @@ ründama	olid rünnanud	V;ACT;PRS;PRF;POS;COND;2;SG
 ründama	ründavad	V;ACT;PRS;POS;IND;3;PL
 ründama	olite rünnanud	V;ACT;PRS;PRF;POS;COND;2;PL
 ründama	ei rünnatud	V;PASS;PST;NEG;IND
-ründama	oleksite rünnanud	V;ACT;PRS;PRF:POS;COND;2;PL
+ründama	oleksite rünnanud	V;ACT;PRS;PRF;POS;COND;2;PL
 ründama	ründav	V.PTCP;ACT;PRS
 ründama	rünnaku	V;ACT;PRS;POS;IMP;3;SG
 ründama	ründama	V;NFIN
@@ -24468,7 +24468,7 @@ saabuma	olid saabunud	V;ACT;PRS;PRF;POS;COND;2;SG
 saabuma	saabuvad	V;ACT;PRS;POS;IND;3;PL
 saabuma	olite saabunud	V;ACT;PRS;PRF;POS;COND;2;PL
 saabuma	ei saabutud	V;PASS;PST;NEG;IND
-saabuma	oleksite saabunud	V;ACT;PRS;PRF:POS;COND;2;PL
+saabuma	oleksite saabunud	V;ACT;PRS;PRF;POS;COND;2;PL
 saabuma	saabuv	V.PTCP;ACT;PRS
 saabuma	saabugu	V;ACT;PRS;POS;IMP;3;SG
 saabuma	saabuma	V;NFIN
@@ -24554,7 +24554,7 @@ saama	olid saanud	V;ACT;PRS;PRF;POS;COND;2;SG
 saama	saavad	V;ACT;PRS;POS;IND;3;PL
 saama	olite saanud	V;ACT;PRS;PRF;POS;COND;2;PL
 saama	ei saadud	V;PASS;PST;NEG;IND
-saama	oleksite saanud	V;ACT;PRS;PRF:POS;COND;2;PL
+saama	oleksite saanud	V;ACT;PRS;PRF;POS;COND;2;PL
 saama	saav	V.PTCP;ACT;PRS
 saama	saagu	V;ACT;PRS;POS;IMP;3;SG
 saama	saama	V;NFIN
@@ -24640,7 +24640,7 @@ saatma	olid saatnud	V;ACT;PRS;PRF;POS;COND;2;SG
 saatma	saadavad	V;ACT;PRS;POS;IND;3;PL
 saatma	olite saatnud	V;ACT;PRS;PRF;POS;COND;2;PL
 saatma	ei saadetud	V;PASS;PST;NEG;IND
-saatma	oleksite saatnud	V;ACT;PRS;PRF:POS;COND;2;PL
+saatma	oleksite saatnud	V;ACT;PRS;PRF;POS;COND;2;PL
 saatma	saatev	V.PTCP;ACT;PRS
 saatma	saatku	V;ACT;PRS;POS;IMP;3;SG
 saatma	saatma	V;NFIN
@@ -24819,7 +24819,7 @@ sadama	olid sadanud	V;ACT;PRS;PRF;POS;COND;2;SG
 sadama	sajavad	V;ACT;PRS;POS;IND;3;PL
 sadama	olite sadanud	V;ACT;PRS;PRF;POS;COND;2;PL
 sadama	ei sajatud	V;PASS;PST;NEG;IND
-sadama	oleksite sadanud	V;ACT;PRS;PRF:POS;COND;2;PL
+sadama	oleksite sadanud	V;ACT;PRS;PRF;POS;COND;2;PL
 sadama	sadav	V.PTCP;ACT;PRS
 sadama	sadagu	V;ACT;PRS;POS;IMP;3;SG
 sadama	sadama	V;NFIN
@@ -25122,7 +25122,7 @@ aitama	olid aidanud	V;ACT;PRS;PRF;POS;COND;2;SG
 aitama	aitavad	V;ACT;PRS;POS;IND;3;PL
 aitama	olite aidanud	V;ACT;PRS;PRF;POS;COND;2;PL
 aitama	ei aidatud	V;PASS;PST;NEG;IND
-aitama	oleksite aidanud	V;ACT;PRS;PRF:POS;COND;2;PL
+aitama	oleksite aidanud	V;ACT;PRS;PRF;POS;COND;2;PL
 aitama	aitav	V.PTCP;ACT;PRS
 aitama	aidaku	V;ACT;PRS;POS;IMP;3;SG
 aitama	aitama	V;NFIN
@@ -25363,7 +25363,7 @@ ajama	olid ajanud	V;ACT;PRS;PRF;POS;COND;2;SG
 ajama	ajavad	V;ACT;PRS;POS;IND;3;PL
 ajama	olite ajanud	V;ACT;PRS;PRF;POS;COND;2;PL
 ajama	ei ajatud	V;PASS;PST;NEG;IND
-ajama	oleksite ajanud	V;ACT;PRS;PRF:POS;COND;2;PL
+ajama	oleksite ajanud	V;ACT;PRS;PRF;POS;COND;2;PL
 ajama	ajav	V.PTCP;ACT;PRS
 ajama	ajagu	V;ACT;PRS;POS;IMP;3;SG
 ajama	ajama	V;NFIN
@@ -25449,7 +25449,7 @@ seisma	olid seisnud	V;ACT;PRS;PRF;POS;COND;2;SG
 seisma	seisavad	V;ACT;PRS;POS;IND;3;PL
 seisma	olite seisnud	V;ACT;PRS;PRF;POS;COND;2;PL
 seisma	ei seistud	V;PASS;PST;NEG;IND
-seisma	oleksite seisnud	V;ACT;PRS;PRF:POS;COND;2;PL
+seisma	oleksite seisnud	V;ACT;PRS;PRF;POS;COND;2;PL
 seisma	seisev	V.PTCP;ACT;PRS
 seisma	seisku	V;ACT;PRS;POS;IMP;3;SG
 seisma	seisma	V;NFIN
@@ -25597,7 +25597,7 @@ seletama	olid seletanud	V;ACT;PRS;PRF;POS;COND;2;SG
 seletama	seletavad	V;ACT;PRS;POS;IND;3;PL
 seletama	olite seletanud	V;ACT;PRS;PRF;POS;COND;2;PL
 seletama	ei seletatud	V;PASS;PST;NEG;IND
-seletama	oleksite seletanud	V;ACT;PRS;PRF:POS;COND;2;PL
+seletama	oleksite seletanud	V;ACT;PRS;PRF;POS;COND;2;PL
 seletama	seletav	V.PTCP;ACT;PRS
 seletama	seletagu	V;ACT;PRS;POS;IMP;3;SG
 seletama	seletama	V;NFIN
@@ -25683,7 +25683,7 @@ selgitama	olid selgitanud	V;ACT;PRS;PRF;POS;COND;2;SG
 selgitama	selgitavad	V;ACT;PRS;POS;IND;3;PL
 selgitama	olite selgitanud	V;ACT;PRS;PRF;POS;COND;2;PL
 selgitama	ei selgitatud	V;PASS;PST;NEG;IND
-selgitama	oleksite selgitanud	V;ACT;PRS;PRF:POS;COND;2;PL
+selgitama	oleksite selgitanud	V;ACT;PRS;PRF;POS;COND;2;PL
 selgitama	selgitav	V.PTCP;ACT;PRS
 selgitama	selgitagu	V;ACT;PRS;POS;IMP;3;SG
 selgitama	selgitama	V;NFIN
@@ -25986,7 +25986,7 @@ siduma	olid sidunud	V;ACT;PRS;PRF;POS;COND;2;SG
 siduma	seovad	V;ACT;PRS;POS;IND;3;PL
 siduma	olite sidunud	V;ACT;PRS;PRF;POS;COND;2;PL
 siduma	ei seotud	V;PASS;PST;NEG;IND
-siduma	oleksite sidunud	V;ACT;PRS;PRF:POS;COND;2;PL
+siduma	oleksite sidunud	V;ACT;PRS;PRF;POS;COND;2;PL
 siduma	siduv	V.PTCP;ACT;PRS
 siduma	sidugu	V;ACT;PRS;POS;IMP;3;SG
 siduma	siduma	V;NFIN
@@ -26196,7 +26196,7 @@ sinatama	olid sinatanud	V;ACT;PRS;PRF;POS;COND;2;SG
 sinatama	sinatavad	V;ACT;PRS;POS;IND;3;PL
 sinatama	olite sinatanud	V;ACT;PRS;PRF;POS;COND;2;PL
 sinatama	ei sinatatud	V;PASS;PST;NEG;IND
-sinatama	oleksite sinatanud	V;ACT;PRS;PRF:POS;COND;2;PL
+sinatama	oleksite sinatanud	V;ACT;PRS;PRF;POS;COND;2;PL
 sinatama	sinatav	V.PTCP;ACT;PRS
 sinatama	sinatagu	V;ACT;PRS;POS;IMP;3;SG
 sinatama	sinatama	V;NFIN
@@ -26406,7 +26406,7 @@ sittuma	olid sittunud	V;ACT;PRS;PRF;POS;COND;2;SG
 sittuma	situvad	V;ACT;PRS;POS;IND;3;PL
 sittuma	olite sittunud	V;ACT;PRS;PRF;POS;COND;2;PL
 sittuma	ei situtud	V;PASS;PST;NEG;IND
-sittuma	oleksite sittunud	V;ACT;PRS;PRF:POS;COND;2;PL
+sittuma	oleksite sittunud	V;ACT;PRS;PRF;POS;COND;2;PL
 sittuma	sittuv	V.PTCP;ACT;PRS
 sittuma	sittugu	V;ACT;PRS;POS;IMP;3;SG
 sittuma	sittuma	V;NFIN
@@ -26771,7 +26771,7 @@ soovima	olid soovinud	V;ACT;PRS;PRF;POS;COND;2;SG
 soovima	soovivad	V;ACT;PRS;POS;IND;3;PL
 soovima	olite soovinud	V;ACT;PRS;PRF;POS;COND;2;PL
 soovima	ei soovitud	V;PASS;PST;NEG;IND
-soovima	oleksite soovinud	V;ACT;PRS;PRF:POS;COND;2;PL
+soovima	oleksite soovinud	V;ACT;PRS;PRF;POS;COND;2;PL
 soovima	sooviv	V.PTCP;ACT;PRS
 soovima	soovigu	V;ACT;PRS;POS;IMP;3;SG
 soovima	soovima	V;NFIN
@@ -27012,7 +27012,7 @@ spioneerima	olid spioneerinud	V;ACT;PRS;PRF;POS;COND;2;SG
 spioneerima	spioneerivad	V;ACT;PRS;POS;IND;3;PL
 spioneerima	olite spioneerinud	V;ACT;PRS;PRF;POS;COND;2;PL
 spioneerima	ei spioneeritud	V;PASS;PST;NEG;IND
-spioneerima	oleksite spioneerinud	V;ACT;PRS;PRF:POS;COND;2;PL
+spioneerima	oleksite spioneerinud	V;ACT;PRS;PRF;POS;COND;2;PL
 spioneerima	spioneeriv	V.PTCP;ACT;PRS
 spioneerima	spioneerigu	V;ACT;PRS;POS;IMP;3;SG
 spioneerima	spioneerima	V;NFIN
@@ -27222,7 +27222,7 @@ algama	olid alanud	V;ACT;PRS;PRF;POS;COND;2;SG
 algama	algavad	V;ACT;PRS;POS;IND;3;PL
 algama	olite alanud	V;ACT;PRS;PRF;POS;COND;2;PL
 algama	ei alatud	V;PASS;PST;NEG;IND
-algama	oleksite alanud	V;ACT;PRS;PRF:POS;COND;2;PL
+algama	oleksite alanud	V;ACT;PRS;PRF;POS;COND;2;PL
 algama	algav	V.PTCP;ACT;PRS
 algama	alaku	V;ACT;PRS;POS;IMP;3;SG
 algama	algama	V;NFIN
@@ -27339,7 +27339,7 @@ suitsetama	olid suitsetanud	V;ACT;PRS;PRF;POS;COND;2;SG
 suitsetama	suitsetavad	V;ACT;PRS;POS;IND;3;PL
 suitsetama	olite suitsetanud	V;ACT;PRS;PRF;POS;COND;2;PL
 suitsetama	ei suitsetatud	V;PASS;PST;NEG;IND
-suitsetama	oleksite suitsetanud	V;ACT;PRS;PRF:POS;COND;2;PL
+suitsetama	oleksite suitsetanud	V;ACT;PRS;PRF;POS;COND;2;PL
 suitsetama	suitsetav	V.PTCP;ACT;PRS
 suitsetama	suitsetagu	V;ACT;PRS;POS;IMP;3;SG
 suitsetama	suitsetama	V;NFIN
@@ -27425,7 +27425,7 @@ summutama	olid summutanud	V;ACT;PRS;PRF;POS;COND;2;SG
 summutama	summutavad	V;ACT;PRS;POS;IND;3;PL
 summutama	olite summutanud	V;ACT;PRS;PRF;POS;COND;2;PL
 summutama	ei summutatud	V;PASS;PST;NEG;IND
-summutama	oleksite summutanud	V;ACT;PRS;PRF:POS;COND;2;PL
+summutama	oleksite summutanud	V;ACT;PRS;PRF;POS;COND;2;PL
 summutama	summutav	V.PTCP;ACT;PRS
 summutama	summutagu	V;ACT;PRS;POS;IMP;3;SG
 summutama	summutama	V;NFIN
@@ -27511,7 +27511,7 @@ surema	olid surnud	V;ACT;PRS;PRF;POS;COND;2;SG
 surema	surevad	V;ACT;PRS;POS;IND;3;PL
 surema	olite surnud	V;ACT;PRS;PRF;POS;COND;2;PL
 surema	ei surdud	V;PASS;PST;NEG;IND
-surema	oleksite surnud	V;ACT;PRS;PRF:POS;COND;2;PL
+surema	oleksite surnud	V;ACT;PRS;PRF;POS;COND;2;PL
 surema	surev	V.PTCP;ACT;PRS
 surema	surgu	V;ACT;PRS;POS;IMP;3;SG
 surema	surema	V;NFIN
@@ -27597,7 +27597,7 @@ surmama	olid surmanud	V;ACT;PRS;PRF;POS;COND;2;SG
 surmama	surmavad	V;ACT;PRS;POS;IND;3;PL
 surmama	olite surmanud	V;ACT;PRS;PRF;POS;COND;2;PL
 surmama	ei surmatud	V;PASS;PST;NEG;IND
-surmama	oleksite surmanud	V;ACT;PRS;PRF:POS;COND;2;PL
+surmama	oleksite surmanud	V;ACT;PRS;PRF;POS;COND;2;PL
 surmama	surmav	V.PTCP;ACT;PRS
 surmama	surmaku	V;ACT;PRS;POS;IMP;3;SG
 surmama	surmama	V;NFIN
@@ -28024,7 +28024,7 @@ sõitma	olid sõitnud	V;ACT;PRS;PRF;POS;COND;2;SG
 sõitma	sõidavad	V;ACT;PRS;POS;IND;3;PL
 sõitma	olite sõitnud	V;ACT;PRS;PRF;POS;COND;2;PL
 sõitma	ei sõidetud	V;PASS;PST;NEG;IND
-sõitma	oleksite sõitnud	V;ACT;PRS;PRF:POS;COND;2;PL
+sõitma	oleksite sõitnud	V;ACT;PRS;PRF;POS;COND;2;PL
 sõitma	sõitev	V.PTCP;ACT;PRS
 sõitma	sõitku	V;ACT;PRS;POS;IMP;3;SG
 sõitma	sõitma	V;NFIN
@@ -28327,7 +28327,7 @@ sõudma	olid sõudnud	V;ACT;PRS;PRF;POS;COND;2;SG
 sõudma	sõuavad	V;ACT;PRS;POS;IND;3;PL
 sõudma	olite sõudnud	V;ACT;PRS;PRF;POS;COND;2;PL
 sõudma	ei sõuetud	V;PASS;PST;NEG;IND
-sõudma	oleksite sõudnud	V;ACT;PRS;PRF:POS;COND;2;PL
+sõudma	oleksite sõudnud	V;ACT;PRS;PRF;POS;COND;2;PL
 sõudma	sõudev	V.PTCP;ACT;PRS
 sõudma	sõudku	V;ACT;PRS;POS;IMP;3;SG
 sõudma	sõudma	V;NFIN
@@ -28413,7 +28413,7 @@ sööma	olid söönud	V;ACT;PRS;PRF;POS;COND;2;SG
 sööma	söövad	V;ACT;PRS;POS;IND;3;PL
 sööma	olite söönud	V;ACT;PRS;PRF;POS;COND;2;PL
 sööma	ei söödud	V;PASS;PST;NEG;IND
-sööma	oleksite söönud	V;ACT;PRS;PRF:POS;COND;2;PL
+sööma	oleksite söönud	V;ACT;PRS;PRF;POS;COND;2;PL
 sööma	sööv	V.PTCP;ACT;PRS
 sööma	söögu	V;ACT;PRS;POS;IMP;3;SG
 sööma	sööma	V;NFIN
@@ -28623,7 +28623,7 @@ sündima	olid sündinud	V;ACT;PRS;PRF;POS;COND;2;SG
 sündima	sünnivad	V;ACT;PRS;POS;IND;3;PL
 sündima	olite sündinud	V;ACT;PRS;PRF;POS;COND;2;PL
 sündima	ei sünnitud	V;PASS;PST;NEG;IND
-sündima	oleksite sündinud	V;ACT;PRS;PRF:POS;COND;2;PL
+sündima	oleksite sündinud	V;ACT;PRS;PRF;POS;COND;2;PL
 sündima	sündiv	V.PTCP;ACT;PRS
 sündima	sündigu	V;ACT;PRS;POS;IMP;3;SG
 sündima	sündima	V;NFIN
@@ -28709,7 +28709,7 @@ sünnitama	olid sünnitanud	V;ACT;PRS;PRF;POS;COND;2;SG
 sünnitama	sünnitavad	V;ACT;PRS;POS;IND;3;PL
 sünnitama	olite sünnitanud	V;ACT;PRS;PRF;POS;COND;2;PL
 sünnitama	ei sünnitatud	V;PASS;PST;NEG;IND
-sünnitama	oleksite sünnitanud	V;ACT;PRS;PRF:POS;COND;2;PL
+sünnitama	oleksite sünnitanud	V;ACT;PRS;PRF;POS;COND;2;PL
 sünnitama	sünnitav	V.PTCP;ACT;PRS
 sünnitama	sünnitagu	V;ACT;PRS;POS;IMP;3;SG
 sünnitama	sünnitama	V;NFIN
@@ -28888,7 +28888,7 @@ tahtma	olid tahtnud	V;ACT;PRS;PRF;POS;COND;2;SG
 tahtma	tahavad	V;ACT;PRS;POS;IND;3;PL
 tahtma	olite tahtnud	V;ACT;PRS;PRF;POS;COND;2;PL
 tahtma	ei tahetud	V;PASS;PST;NEG;IND
-tahtma	oleksite tahtnud	V;ACT;PRS;PRF:POS;COND;2;PL
+tahtma	oleksite tahtnud	V;ACT;PRS;PRF;POS;COND;2;PL
 tahtma	tahtev	V.PTCP;ACT;PRS
 tahtma	tahtku	V;ACT;PRS;POS;IMP;3;SG
 tahtma	tahtma	V;NFIN
@@ -29129,7 +29129,7 @@ tapma	olid tapnud	V;ACT;PRS;PRF;POS;COND;2;SG
 tapma	tapavad	V;ACT;PRS;POS;IND;3;PL
 tapma	olite tapnud	V;ACT;PRS;PRF;POS;COND;2;PL
 tapma	ei tapetud	V;PASS;PST;NEG;IND
-tapma	oleksite tapnud	V;ACT;PRS;PRF:POS;COND;2;PL
+tapma	oleksite tapnud	V;ACT;PRS;PRF;POS;COND;2;PL
 tapma	tappev	V.PTCP;ACT;PRS
 tapma	tapku	V;ACT;PRS;POS;IMP;3;SG
 tapma	tapma	V;NFIN
@@ -29277,7 +29277,7 @@ teadma	olid teadnud	V;ACT;PRS;PRF;POS;COND;2;SG
 teadma	teavad	V;ACT;PRS;POS;IND;3;PL
 teadma	olite teadnud	V;ACT;PRS;PRF;POS;COND;2;PL
 teadma	ei teatud	V;PASS;PST;NEG;IND
-teadma	oleksite teadnud	V;ACT;PRS;PRF:POS;COND;2;PL
+teadma	oleksite teadnud	V;ACT;PRS;PRF;POS;COND;2;PL
 teadma	teadev	V.PTCP;ACT;PRS
 teadma	teadku	V;ACT;PRS;POS;IMP;3;SG
 teadma	teadma	V;NFIN
@@ -29456,7 +29456,7 @@ tegema	olid teinud	V;ACT;PRS;PRF;POS;COND;2;SG
 tegema	teevad	V;ACT;PRS;POS;IND;3;PL
 tegema	olite teinud	V;ACT;PRS;PRF;POS;COND;2;PL
 tegema	ei tehtud	V;PASS;PST;NEG;IND
-tegema	oleksite teinud	V;ACT;PRS;PRF:POS;COND;2;PL
+tegema	oleksite teinud	V;ACT;PRS;PRF;POS;COND;2;PL
 tegema	tegev	V.PTCP;ACT;PRS
 tegema	tehku	V;ACT;PRS;POS;IMP;3;SG
 tegema	tegema	V;NFIN
@@ -29573,7 +29573,7 @@ teietama	olid teietanud	V;ACT;PRS;PRF;POS;COND;2;SG
 teietama	teietavad	V;ACT;PRS;POS;IND;3;PL
 teietama	olite teietanud	V;ACT;PRS;PRF;POS;COND;2;PL
 teietama	ei teietatud	V;PASS;PST;NEG;IND
-teietama	oleksite teietanud	V;ACT;PRS;PRF:POS;COND;2;PL
+teietama	oleksite teietanud	V;ACT;PRS;PRF;POS;COND;2;PL
 teietama	teietav	V.PTCP;ACT;PRS
 teietama	teietagu	V;ACT;PRS;POS;IMP;3;SG
 teietama	teietama	V;NFIN
@@ -29845,7 +29845,7 @@ toitma	olid toitnud	V;ACT;PRS;PRF;POS;COND;2;SG
 toitma	toidavad	V;ACT;PRS;POS;IND;3;PL
 toitma	olite toitnud	V;ACT;PRS;PRF;POS;COND;2;PL
 toitma	ei toidetud	V;PASS;PST;NEG;IND
-toitma	oleksite toitnud	V;ACT;PRS;PRF:POS;COND;2;PL
+toitma	oleksite toitnud	V;ACT;PRS;PRF;POS;COND;2;PL
 toitma	toitev	V.PTCP;ACT;PRS
 toitma	toitku	V;ACT;PRS;POS;IMP;3;SG
 toitma	toitma	V;NFIN
@@ -29962,7 +29962,7 @@ tooma	olid toonud	V;ACT;PRS;PRF;POS;COND;2;SG
 tooma	toovad	V;ACT;PRS;POS;IND;3;PL
 tooma	olite toonud	V;ACT;PRS;PRF;POS;COND;2;PL
 tooma	ei toodud	V;PASS;PST;NEG;IND
-tooma	oleksite toonud	V;ACT;PRS;PRF:POS;COND;2;PL
+tooma	oleksite toonud	V;ACT;PRS;PRF;POS;COND;2;PL
 tooma	toov	V.PTCP;ACT;PRS
 tooma	toogu	V;ACT;PRS;POS;IMP;3;SG
 tooma	tooma	V;NFIN
@@ -30513,7 +30513,7 @@ tulema	olid tulnud	V;ACT;PRS;PRF;POS;COND;2;SG
 tulema	tulevad	V;ACT;PRS;POS;IND;3;PL
 tulema	olite tulnud	V;ACT;PRS;PRF;POS;COND;2;PL
 tulema	ei tuldud	V;PASS;PST;NEG;IND
-tulema	oleksite tulnud	V;ACT;PRS;PRF:POS;COND;2;PL
+tulema	oleksite tulnud	V;ACT;PRS;PRF;POS;COND;2;PL
 tulema	tulev	V.PTCP;ACT;PRS
 tulema	tulgu	V;ACT;PRS;POS;IMP;3;SG
 tulema	tulema	V;NFIN
@@ -30661,7 +30661,7 @@ tundma	olid tundnud	V;ACT;PRS;PRF;POS;COND;2;SG
 tundma	tunnevad	V;ACT;PRS;POS;IND;3;PL
 tundma	olite tundnud	V;ACT;PRS;PRF;POS;COND;2;PL
 tundma	ei tunnetud	V;PASS;PST;NEG;IND
-tundma	oleksite tundnud	V;ACT;PRS;PRF:POS;COND;2;PL
+tundma	oleksite tundnud	V;ACT;PRS;PRF;POS;COND;2;PL
 tundma	tundev	V.PTCP;ACT;PRS
 tundma	tundku	V;ACT;PRS;POS;IMP;3;SG
 tundma	tundma	V;NFIN
@@ -30840,7 +30840,7 @@ tähendama	olid tähendanud	V;ACT;PRS;PRF;POS;COND;2;SG
 tähendama	tähendavad	V;ACT;PRS;POS;IND;3;PL
 tähendama	olite tähendanud	V;ACT;PRS;PRF;POS;COND;2;PL
 tähendama	ei tähendatud	V;PASS;PST;NEG;IND
-tähendama	oleksite tähendanud	V;ACT;PRS;PRF:POS;COND;2;PL
+tähendama	oleksite tähendanud	V;ACT;PRS;PRF;POS;COND;2;PL
 tähendama	tähendav	V.PTCP;ACT;PRS
 tähendama	tähendagu	V;ACT;PRS;POS;IMP;3;SG
 tähendama	tähendama	V;NFIN
@@ -30957,7 +30957,7 @@ täitma	olid täitnud	V;ACT;PRS;PRF;POS;COND;2;SG
 täitma	täidavad	V;ACT;PRS;POS;IND;3;PL
 täitma	olite täitnud	V;ACT;PRS;PRF;POS;COND;2;PL
 täitma	ei täidetud	V;PASS;PST;NEG;IND
-täitma	oleksite täitnud	V;ACT;PRS;PRF:POS;COND;2;PL
+täitma	oleksite täitnud	V;ACT;PRS;PRF;POS;COND;2;PL
 täitma	täitev	V.PTCP;ACT;PRS
 täitma	täitku	V;ACT;PRS;POS;IMP;3;SG
 täitma	täitma	V;NFIN
@@ -31043,7 +31043,7 @@ tänama	olid tänanud	V;ACT;PRS;PRF;POS;COND;2;SG
 tänama	tänavad	V;ACT;PRS;POS;IND;3;PL
 tänama	olite tänanud	V;ACT;PRS;PRF;POS;COND;2;PL
 tänama	ei tänatud	V;PASS;PST;NEG;IND
-tänama	oleksite tänanud	V;ACT;PRS;PRF:POS;COND;2;PL
+tänama	oleksite tänanud	V;ACT;PRS;PRF;POS;COND;2;PL
 tänama	tänav	V.PTCP;ACT;PRS
 tänama	tänagu	V;ACT;PRS;POS;IMP;3;SG
 tänama	tänama	V;NFIN
@@ -31191,7 +31191,7 @@ tätoveerima	olid tätoveerinud	V;ACT;PRS;PRF;POS;COND;2;SG
 tätoveerima	tätoveerivad	V;ACT;PRS;POS;IND;3;PL
 tätoveerima	olite tätoveerinud	V;ACT;PRS;PRF;POS;COND;2;PL
 tätoveerima	ei tätoveeritud	V;PASS;PST;NEG;IND
-tätoveerima	oleksite tätoveerinud	V;ACT;PRS;PRF:POS;COND;2;PL
+tätoveerima	oleksite tätoveerinud	V;ACT;PRS;PRF;POS;COND;2;PL
 tätoveerima	tätoveeriv	V.PTCP;ACT;PRS
 tätoveerima	tätoveerigu	V;ACT;PRS;POS;IMP;3;SG
 tätoveerima	tätoveerima	V;NFIN
@@ -31308,7 +31308,7 @@ tõlkima	olid tõlkinud	V;ACT;PRS;PRF;POS;COND;2;SG
 tõlkima	tõlgivad	V;ACT;PRS;POS;IND;3;PL
 tõlkima	olite tõlkinud	V;ACT;PRS;PRF;POS;COND;2;PL
 tõlkima	ei tõlgitud	V;PASS;PST;NEG;IND
-tõlkima	oleksite tõlkinud	V;ACT;PRS;PRF:POS;COND;2;PL
+tõlkima	oleksite tõlkinud	V;ACT;PRS;PRF;POS;COND;2;PL
 tõlkima	tõlkiv	V.PTCP;ACT;PRS
 tõlkima	tõlkigu	V;ACT;PRS;POS;IMP;3;SG
 tõlkima	tõlkima	V;NFIN
@@ -31580,7 +31580,7 @@ ujuma	olid ujunud	V;ACT;PRS;PRF;POS;COND;2;SG
 ujuma	ujuvad	V;ACT;PRS;POS;IND;3;PL
 ujuma	olite ujunud	V;ACT;PRS;PRF;POS;COND;2;PL
 ujuma	ei ujutud	V;PASS;PST;NEG;IND
-ujuma	oleksite ujunud	V;ACT;PRS;PRF:POS;COND;2;PL
+ujuma	oleksite ujunud	V;ACT;PRS;PRF;POS;COND;2;PL
 ujuma	ujuv	V.PTCP;ACT;PRS
 ujuma	ujugu	V;ACT;PRS;POS;IMP;3;SG
 ujuma	ujuma	V;NFIN
@@ -31945,7 +31945,7 @@ unustama	olid unustanud	V;ACT;PRS;PRF;POS;COND;2;SG
 unustama	unustavad	V;ACT;PRS;POS;IND;3;PL
 unustama	olite unustanud	V;ACT;PRS;PRF;POS;COND;2;PL
 unustama	ei unustatud	V;PASS;PST;NEG;IND
-unustama	oleksite unustanud	V;ACT;PRS;PRF:POS;COND;2;PL
+unustama	oleksite unustanud	V;ACT;PRS;PRF;POS;COND;2;PL
 unustama	unustav	V.PTCP;ACT;PRS
 unustama	unustagu	V;ACT;PRS;POS;IMP;3;SG
 unustama	unustama	V;NFIN
@@ -32093,7 +32093,7 @@ vaatama	olid vaadanud	V;ACT;PRS;PRF;POS;COND;2;SG
 vaatama	vaatavad	V;ACT;PRS;POS;IND;3;PL
 vaatama	olite vaadanud	V;ACT;PRS;PRF;POS;COND;2;PL
 vaatama	ei vaadatud	V;PASS;PST;NEG;IND
-vaatama	oleksite vaadanud	V;ACT;PRS;PRF:POS;COND;2;PL
+vaatama	oleksite vaadanud	V;ACT;PRS;PRF;POS;COND;2;PL
 vaatama	vaatav	V.PTCP;ACT;PRS
 vaatama	vaadaku	V;ACT;PRS;POS;IMP;3;SG
 vaatama	vaatama	V;NFIN
@@ -32241,7 +32241,7 @@ vabastama	olid vabastanud	V;ACT;PRS;PRF;POS;COND;2;SG
 vabastama	vabastavad	V;ACT;PRS;POS;IND;3;PL
 vabastama	olite vabastanud	V;ACT;PRS;PRF;POS;COND;2;PL
 vabastama	ei vabastatud	V;PASS;PST;NEG;IND
-vabastama	oleksite vabastanud	V;ACT;PRS;PRF:POS;COND;2;PL
+vabastama	oleksite vabastanud	V;ACT;PRS;PRF;POS;COND;2;PL
 vabastama	vabastav	V.PTCP;ACT;PRS
 vabastama	vabastagu	V;ACT;PRS;POS;IMP;3;SG
 vabastama	vabastama	V;NFIN
@@ -32389,7 +32389,7 @@ vaheldama	olid vaheldanud	V;ACT;PRS;PRF;POS;COND;2;SG
 vaheldama	vaheldavad	V;ACT;PRS;POS;IND;3;PL
 vaheldama	olite vaheldanud	V;ACT;PRS;PRF;POS;COND;2;PL
 vaheldama	ei vaheldatud	V;PASS;PST;NEG;IND
-vaheldama	oleksite vaheldanud	V;ACT;PRS;PRF:POS;COND;2;PL
+vaheldama	oleksite vaheldanud	V;ACT;PRS;PRF;POS;COND;2;PL
 vaheldama	vaheldav	V.PTCP;ACT;PRS
 vaheldama	vaheldagu	V;ACT;PRS;POS;IMP;3;SG
 vaheldama	vaheldama	V;NFIN
@@ -32568,7 +32568,7 @@ vaidlema	olid vaielnud	V;ACT;PRS;PRF;POS;COND;2;SG
 vaidlema	vaidlevad	V;ACT;PRS;POS;IND;3;PL
 vaidlema	olite vaielnud	V;ACT;PRS;PRF;POS;COND;2;PL
 vaidlema	ei vaieldud	V;PASS;PST;NEG;IND
-vaidlema	oleksite vaielnud	V;ACT;PRS;PRF:POS;COND;2;PL
+vaidlema	oleksite vaielnud	V;ACT;PRS;PRF;POS;COND;2;PL
 vaidlema	vaidlev	V.PTCP;ACT;PRS
 vaidlema	vaielgu	V;ACT;PRS;POS;IMP;3;SG
 vaidlema	vaidlema	V;NFIN
@@ -32654,7 +32654,7 @@ vaikima	olid vaikinud	V;ACT;PRS;PRF;POS;COND;2;SG
 vaikima	vaikivad	V;ACT;PRS;POS;IND;3;PL
 vaikima	olite vaikinud	V;ACT;PRS;PRF;POS;COND;2;PL
 vaikima	ei vaikitud	V;PASS;PST;NEG;IND
-vaikima	oleksite vaikinud	V;ACT;PRS;PRF:POS;COND;2;PL
+vaikima	oleksite vaikinud	V;ACT;PRS;PRF;POS;COND;2;PL
 vaikima	vaikiv	V.PTCP;ACT;PRS
 vaikima	vaikigu	V;ACT;PRS;POS;IMP;3;SG
 vaikima	vaikima	V;NFIN
@@ -33081,7 +33081,7 @@ varastama	olid varastanud	V;ACT;PRS;PRF;POS;COND;2;SG
 varastama	varastavad	V;ACT;PRS;POS;IND;3;PL
 varastama	olite varastanud	V;ACT;PRS;PRF;POS;COND;2;PL
 varastama	ei varastatud	V;PASS;PST;NEG;IND
-varastama	oleksite varastanud	V;ACT;PRS;PRF:POS;COND;2;PL
+varastama	oleksite varastanud	V;ACT;PRS;PRF;POS;COND;2;PL
 varastama	varastav	V.PTCP;ACT;PRS
 varastama	varastagu	V;ACT;PRS;POS;IMP;3;SG
 varastama	varastama	V;NFIN
@@ -33384,7 +33384,7 @@ veenma	olid veennud	V;ACT;PRS;PRF;POS;COND;2;SG
 veenma	veenavad	V;ACT;PRS;POS;IND;3;PL
 veenma	olite veennud	V;ACT;PRS;PRF;POS;COND;2;PL
 veenma	ei veendud	V;PASS;PST;NEG;IND
-veenma	oleksite veennud	V;ACT;PRS;PRF:POS;COND;2;PL
+veenma	oleksite veennud	V;ACT;PRS;PRF;POS;COND;2;PL
 veenma	veenev	V.PTCP;ACT;PRS
 veenma	veengu	V;ACT;PRS;POS;IMP;3;SG
 veenma	veenma	V;NFIN
@@ -33625,7 +33625,7 @@ vibutama	olid vibutanud	V;ACT;PRS;PRF;POS;COND;2;SG
 vibutama	vibutavad	V;ACT;PRS;POS;IND;3;PL
 vibutama	olite vibutanud	V;ACT;PRS;PRF;POS;COND;2;PL
 vibutama	ei vibutatud	V;PASS;PST;NEG;IND
-vibutama	oleksite vibutanud	V;ACT;PRS;PRF:POS;COND;2;PL
+vibutama	oleksite vibutanud	V;ACT;PRS;PRF;POS;COND;2;PL
 vibutama	vibutav	V.PTCP;ACT;PRS
 vibutama	vibutagu	V;ACT;PRS;POS;IMP;3;SG
 vibutama	vibutama	V;NFIN
@@ -33742,7 +33742,7 @@ vihkama	olid vihanud	V;ACT;PRS;PRF;POS;COND;2;SG
 vihkama	vihkavad	V;ACT;PRS;POS;IND;3;PL
 vihkama	olite vihanud	V;ACT;PRS;PRF;POS;COND;2;PL
 vihkama	ei vihatud	V;PASS;PST;NEG;IND
-vihkama	oleksite vihanud	V;ACT;PRS;PRF:POS;COND;2;PL
+vihkama	oleksite vihanud	V;ACT;PRS;PRF;POS;COND;2;PL
 vihkama	vihkav	V.PTCP;ACT;PRS
 vihkama	vihaku	V;ACT;PRS;POS;IMP;3;SG
 vihkama	vihkama	V;NFIN
@@ -33859,7 +33859,7 @@ viitsima	olid viitsinud	V;ACT;PRS;PRF;POS;COND;2;SG
 viitsima	viitsivad	V;ACT;PRS;POS;IND;3;PL
 viitsima	olite viitsinud	V;ACT;PRS;PRF;POS;COND;2;PL
 viitsima	ei viitsitud	V;PASS;PST;NEG;IND
-viitsima	oleksite viitsinud	V;ACT;PRS;PRF:POS;COND;2;PL
+viitsima	oleksite viitsinud	V;ACT;PRS;PRF;POS;COND;2;PL
 viitsima	viitsiv	V.PTCP;ACT;PRS
 viitsima	viitsigu	V;ACT;PRS;POS;IMP;3;SG
 viitsima	viitsima	V;NFIN
@@ -33945,7 +33945,7 @@ andma	olid andnud	V;ACT;PRS;PRF;POS;COND;2;SG
 andma	annavad	V;ACT;PRS;POS;IND;3;PL
 andma	olite andnud	V;ACT;PRS;PRF;POS;COND;2;PL
 andma	ei annetud	V;PASS;PST;NEG;IND
-andma	oleksite andnud	V;ACT;PRS;PRF:POS;COND;2;PL
+andma	oleksite andnud	V;ACT;PRS;PRF;POS;COND;2;PL
 andma	andev	V.PTCP;ACT;PRS
 andma	andku	V;ACT;PRS;POS;IMP;3;SG
 andma	andma	V;NFIN
@@ -34310,7 +34310,7 @@ võima	olid võinud	V;ACT;PRS;PRF;POS;COND;2;SG
 võima	võivad	V;ACT;PRS;POS;IND;3;PL
 võima	olite võinud	V;ACT;PRS;PRF;POS;COND;2;PL
 võima	ei võidud	V;PASS;PST;NEG;IND
-võima	oleksite võinud	V;ACT;PRS;PRF:POS;COND;2;PL
+võima	oleksite võinud	V;ACT;PRS;PRF;POS;COND;2;PL
 võima	võiv	V.PTCP;ACT;PRS
 võima	võigu	V;ACT;PRS;POS;IMP;3;SG
 võima	võima	V;NFIN
@@ -34458,7 +34458,7 @@ võitma	olid võitnud	V;ACT;PRS;PRF;POS;COND;2;SG
 võitma	võidavad	V;ACT;PRS;POS;IND;3;PL
 võitma	olite võitnud	V;ACT;PRS;PRF;POS;COND;2;PL
 võitma	ei võidetud	V;PASS;PST;NEG;IND
-võitma	oleksite võitnud	V;ACT;PRS;PRF:POS;COND;2;PL
+võitma	oleksite võitnud	V;ACT;PRS;PRF;POS;COND;2;PL
 võitma	võitev	V.PTCP;ACT;PRS
 võitma	võitku	V;ACT;PRS;POS;IMP;3;SG
 võitma	võitma	V;NFIN
@@ -34575,7 +34575,7 @@ võrduma	olid võrdunud	V;ACT;PRS;PRF;POS;COND;2;SG
 võrduma	võrduvad	V;ACT;PRS;POS;IND;3;PL
 võrduma	olite võrdunud	V;ACT;PRS;PRF;POS;COND;2;PL
 võrduma	ei võrdutud	V;PASS;PST;NEG;IND
-võrduma	oleksite võrdunud	V;ACT;PRS;PRF:POS;COND;2;PL
+võrduma	oleksite võrdunud	V;ACT;PRS;PRF;POS;COND;2;PL
 võrduma	võrduv	V.PTCP;ACT;PRS
 võrduma	võrdugu	V;ACT;PRS;POS;IMP;3;SG
 võrduma	võrduma	V;NFIN
@@ -34661,7 +34661,7 @@ võtma	olid võtnud	V;ACT;PRS;PRF;POS;COND;2;SG
 võtma	võtavad	V;ACT;PRS;POS;IND;3;PL
 võtma	olite võtnud	V;ACT;PRS;PRF;POS;COND;2;PL
 võtma	ei võtetud	V;PASS;PST;NEG;IND
-võtma	oleksite võtnud	V;ACT;PRS;PRF:POS;COND;2;PL
+võtma	oleksite võtnud	V;ACT;PRS;PRF;POS;COND;2;PL
 võtma	võttev	V.PTCP;ACT;PRS
 võtma	võtku	V;ACT;PRS;POS;IMP;3;SG
 võtma	võtma	V;NFIN
@@ -35181,7 +35181,7 @@ ankur	ankrutelt	N;AT+ABL;PL
 õpetama	õpetavad	V;ACT;PRS;POS;IND;3;PL
 õpetama	olite õpetanud	V;ACT;PRS;PRF;POS;COND;2;PL
 õpetama	ei õpetatud	V;PASS;PST;NEG;IND
-õpetama	oleksite õpetanud	V;ACT;PRS;PRF:POS;COND;2;PL
+õpetama	oleksite õpetanud	V;ACT;PRS;PRF;POS;COND;2;PL
 õpetama	õpetav	V.PTCP;ACT;PRS
 õpetama	õpetagu	V;ACT;PRS;POS;IMP;3;SG
 õpetama	õpetama	V;NFIN
@@ -35360,7 +35360,7 @@ ankur	ankrutelt	N;AT+ABL;PL
 õppima	õpivad	V;ACT;PRS;POS;IND;3;PL
 õppima	olite õppinud	V;ACT;PRS;PRF;POS;COND;2;PL
 õppima	ei õpitud	V;PASS;PST;NEG;IND
-õppima	oleksite õppinud	V;ACT;PRS;PRF:POS;COND;2;PL
+õppima	oleksite õppinud	V;ACT;PRS;PRF;POS;COND;2;PL
 õppima	õppiv	V.PTCP;ACT;PRS
 õppima	õppigu	V;ACT;PRS;POS;IMP;3;SG
 õppima	õppima	V;NFIN
@@ -35570,7 +35570,7 @@ ankur	ankrutelt	N;AT+ABL;PL
 öökima	öögivad	V;ACT;PRS;POS;IND;3;PL
 öökima	olite öökinud	V;ACT;PRS;PRF;POS;COND;2;PL
 öökima	ei öögitud	V;PASS;PST;NEG;IND
-öökima	oleksite öökinud	V;ACT;PRS;PRF:POS;COND;2;PL
+öökima	oleksite öökinud	V;ACT;PRS;PRF;POS;COND;2;PL
 öökima	öökiv	V.PTCP;ACT;PRS
 öökima	öökigu	V;ACT;PRS;POS;IMP;3;SG
 öökima	öökima	V;NFIN
@@ -35718,7 +35718,7 @@ antimon	antimondelt	N;AT+ABL;PL
 ühendama	ühendavad	V;ACT;PRS;POS;IND;3;PL
 ühendama	olite ühendanud	V;ACT;PRS;PRF;POS;COND;2;PL
 ühendama	ei ühendatud	V;PASS;PST;NEG;IND
-ühendama	oleksite ühendanud	V;ACT;PRS;PRF:POS;COND;2;PL
+ühendama	oleksite ühendanud	V;ACT;PRS;PRF;POS;COND;2;PL
 ühendama	ühendav	V.PTCP;ACT;PRS
 ühendama	ühendagu	V;ACT;PRS;POS;IMP;3;SG
 ühendama	ühendama	V;NFIN
@@ -35897,7 +35897,7 @@ antimon	antimondelt	N;AT+ABL;PL
 üritama	üritavad	V;ACT;PRS;POS;IND;3;PL
 üritama	olite üritanud	V;ACT;PRS;PRF;POS;COND;2;PL
 üritama	ei üritatud	V;PASS;PST;NEG;IND
-üritama	oleksite üritanud	V;ACT;PRS;PRF:POS;COND;2;PL
+üritama	oleksite üritanud	V;ACT;PRS;PRF;POS;COND;2;PL
 üritama	üritav	V.PTCP;ACT;PRS
 üritama	üritagu	V;ACT;PRS;POS;IMP;3;SG
 üritama	üritama	V;NFIN
@@ -36231,7 +36231,7 @@ armastama	olid armastanud	V;ACT;PRS;PRF;POS;COND;2;SG
 armastama	armastavad	V;ACT;PRS;POS;IND;3;PL
 armastama	olite armastanud	V;ACT;PRS;PRF;POS;COND;2;PL
 armastama	ei armastatud	V;PASS;PST;NEG;IND
-armastama	oleksite armastanud	V;ACT;PRS;PRF:POS;COND;2;PL
+armastama	oleksite armastanud	V;ACT;PRS;PRF;POS;COND;2;PL
 armastama	armastav	V.PTCP;ACT;PRS
 armastama	armastagu	V;ACT;PRS;POS;IMP;3;SG
 armastama	armastama	V;NFIN
@@ -36348,7 +36348,7 @@ armuma	olid armunud	V;ACT;PRS;PRF;POS;COND;2;SG
 armuma	armuvad	V;ACT;PRS;POS;IND;3;PL
 armuma	olite armunud	V;ACT;PRS;PRF;POS;COND;2;PL
 armuma	ei armutud	V;PASS;PST;NEG;IND
-armuma	oleksite armunud	V;ACT;PRS;PRF:POS;COND;2;PL
+armuma	oleksite armunud	V;ACT;PRS;PRF;POS;COND;2;PL
 armuma	armuv	V.PTCP;ACT;PRS
 armuma	armugu	V;ACT;PRS;POS;IMP;3;SG
 armuma	armuma	V;NFIN
@@ -36496,7 +36496,7 @@ arutlema	olid arutlenud	V;ACT;PRS;PRF;POS;COND;2;SG
 arutlema	arutlevad	V;ACT;PRS;POS;IND;3;PL
 arutlema	olite arutlenud	V;ACT;PRS;PRF;POS;COND;2;PL
 arutlema	ei arutletud	V;PASS;PST;NEG;IND
-arutlema	oleksite arutlenud	V;ACT;PRS;PRF:POS;COND;2;PL
+arutlema	oleksite arutlenud	V;ACT;PRS;PRF;POS;COND;2;PL
 arutlema	arutlev	V.PTCP;ACT;PRS
 arutlema	arutlegu	V;ACT;PRS;POS;IMP;3;SG
 arutlema	arutlema	V;NFIN
@@ -36582,7 +36582,7 @@ arvama	olid arvanud	V;ACT;PRS;PRF;POS;COND;2;SG
 arvama	arvavad	V;ACT;PRS;POS;IND;3;PL
 arvama	olite arvanud	V;ACT;PRS;PRF;POS;COND;2;PL
 arvama	ei arvatud	V;PASS;PST;NEG;IND
-arvama	oleksite arvanud	V;ACT;PRS;PRF:POS;COND;2;PL
+arvama	oleksite arvanud	V;ACT;PRS;PRF;POS;COND;2;PL
 arvama	arvav	V.PTCP;ACT;PRS
 arvama	arvaku	V;ACT;PRS;POS;IMP;3;SG
 arvama	arvama	V;NFIN
@@ -36668,7 +36668,7 @@ arvutama	olid arvutanud	V;ACT;PRS;PRF;POS;COND;2;SG
 arvutama	arvutavad	V;ACT;PRS;POS;IND;3;PL
 arvutama	olite arvutanud	V;ACT;PRS;PRF;POS;COND;2;PL
 arvutama	ei arvutatud	V;PASS;PST;NEG;IND
-arvutama	oleksite arvutanud	V;ACT;PRS;PRF:POS;COND;2;PL
+arvutama	oleksite arvutanud	V;ACT;PRS;PRF;POS;COND;2;PL
 arvutama	arvutav	V.PTCP;ACT;PRS
 arvutama	arvutagu	V;ACT;PRS;POS;IMP;3;SG
 arvutama	arvutama	V;NFIN
@@ -36909,7 +36909,7 @@ astuma	olid astunud	V;ACT;PRS;PRF;POS;COND;2;SG
 astuma	astuvad	V;ACT;PRS;POS;IND;3;PL
 astuma	olite astunud	V;ACT;PRS;PRF;POS;COND;2;PL
 astuma	ei astutud	V;PASS;PST;NEG;IND
-astuma	oleksite astunud	V;ACT;PRS;PRF:POS;COND;2;PL
+astuma	oleksite astunud	V;ACT;PRS;PRF;POS;COND;2;PL
 astuma	astuv	V.PTCP;ACT;PRS
 astuma	astugu	V;ACT;PRS;POS;IMP;3;SG
 astuma	astuma	V;NFIN
@@ -36995,7 +36995,7 @@ asuma	olid asunud	V;ACT;PRS;PRF;POS;COND;2;SG
 asuma	asuvad	V;ACT;PRS;POS;IND;3;PL
 asuma	olite asunud	V;ACT;PRS;PRF;POS;COND;2;PL
 asuma	ei asutud	V;PASS;PST;NEG;IND
-asuma	oleksite asunud	V;ACT;PRS;PRF:POS;COND;2;PL
+asuma	oleksite asunud	V;ACT;PRS;PRF;POS;COND;2;PL
 asuma	asuv	V.PTCP;ACT;PRS
 asuma	asugu	V;ACT;PRS;POS;IMP;3;SG
 asuma	asuma	V;NFIN
@@ -37081,7 +37081,7 @@ austama	olid austanud	V;ACT;PRS;PRF;POS;COND;2;SG
 austama	austavad	V;ACT;PRS;POS;IND;3;PL
 austama	olite austanud	V;ACT;PRS;PRF;POS;COND;2;PL
 austama	ei austatud	V;PASS;PST;NEG;IND
-austama	oleksite austanud	V;ACT;PRS;PRF:POS;COND;2;PL
+austama	oleksite austanud	V;ACT;PRS;PRF;POS;COND;2;PL
 austama	austav	V.PTCP;ACT;PRS
 austama	austagu	V;ACT;PRS;POS;IMP;3;SG
 austama	austama	V;NFIN
@@ -37198,7 +37198,7 @@ avama	olid avanud	V;ACT;PRS;PRF;POS;COND;2;SG
 avama	avavad	V;ACT;PRS;POS;IND;3;PL
 avama	olite avanud	V;ACT;PRS;PRF;POS;COND;2;PL
 avama	ei avatud	V;PASS;PST;NEG;IND
-avama	oleksite avanud	V;ACT;PRS;PRF:POS;COND;2;PL
+avama	oleksite avanud	V;ACT;PRS;PRF;POS;COND;2;PL
 avama	avav	V.PTCP;ACT;PRS
 avama	avagu	V;ACT;PRS;POS;IMP;3;SG
 avama	avama	V;NFIN
@@ -37873,7 +37873,7 @@ ehitama	olid ehitanud	V;ACT;PRS;PRF;POS;COND;2;SG
 ehitama	ehitavad	V;ACT;PRS;POS;IND;3;PL
 ehitama	olite ehitanud	V;ACT;PRS;PRF;POS;COND;2;PL
 ehitama	ei ehitatud	V;PASS;PST;NEG;IND
-ehitama	oleksite ehitanud	V;ACT;PRS;PRF:POS;COND;2;PL
+ehitama	oleksite ehitanud	V;ACT;PRS;PRF;POS;COND;2;PL
 ehitama	ehitav	V.PTCP;ACT;PRS
 ehitama	ehitagu	V;ACT;PRS;POS;IMP;3;SG
 ehitama	ehitama	V;NFIN
@@ -37990,7 +37990,7 @@ ehtima	olid ehtinud	V;ACT;PRS;PRF;POS;COND;2;SG
 ehtima	ehivad	V;ACT;PRS;POS;IND;3;PL
 ehtima	olite ehtinud	V;ACT;PRS;PRF;POS;COND;2;PL
 ehtima	ei ehitud	V;PASS;PST;NEG;IND
-ehtima	oleksite ehtinud	V;ACT;PRS;PRF:POS;COND;2;PL
+ehtima	oleksite ehtinud	V;ACT;PRS;PRF;POS;COND;2;PL
 ehtima	ehtiv	V.PTCP;ACT;PRS
 ehtima	ehtigu	V;ACT;PRS;POS;IMP;3;SG
 ehtima	ehtima	V;NFIN
@@ -38138,7 +38138,7 @@ eitama	olid eitanud	V;ACT;PRS;PRF;POS;COND;2;SG
 eitama	eitavad	V;ACT;PRS;POS;IND;3;PL
 eitama	olite eitanud	V;ACT;PRS;PRF;POS;COND;2;PL
 eitama	ei eitatud	V;PASS;PST;NEG;IND
-eitama	oleksite eitanud	V;ACT;PRS;PRF:POS;COND;2;PL
+eitama	oleksite eitanud	V;ACT;PRS;PRF;POS;COND;2;PL
 eitama	eitav	V.PTCP;ACT;PRS
 eitama	eitagu	V;ACT;PRS;POS;IMP;3;SG
 eitama	eitama	V;NFIN
@@ -38286,7 +38286,7 @@ elama	olid elanud	V;ACT;PRS;PRF;POS;COND;2;SG
 elama	elavad	V;ACT;PRS;POS;IND;3;PL
 elama	olite elanud	V;ACT;PRS;PRF;POS;COND;2;PL
 elama	ei elatud	V;PASS;PST;NEG;IND
-elama	oleksite elanud	V;ACT;PRS;PRF:POS;COND;2;PL
+elama	oleksite elanud	V;ACT;PRS;PRF;POS;COND;2;PL
 elama	elav	V.PTCP;ACT;PRS
 elama	elagu	V;ACT;PRS;POS;IMP;3;SG
 elama	elama	V;NFIN
@@ -38496,7 +38496,7 @@ embama	olid emmanud	V;ACT;PRS;PRF;POS;COND;2;SG
 embama	embavad	V;ACT;PRS;POS;IND;3;PL
 embama	olite emmanud	V;ACT;PRS;PRF;POS;COND;2;PL
 embama	ei emmatud	V;PASS;PST;NEG;IND
-embama	oleksite emmanud	V;ACT;PRS;PRF:POS;COND;2;PL
+embama	oleksite emmanud	V;ACT;PRS;PRF;POS;COND;2;PL
 embama	embav	V.PTCP;ACT;PRS
 embama	emmaku	V;ACT;PRS;POS;IMP;3;SG
 embama	embama	V;NFIN
@@ -38613,7 +38613,7 @@ erinema	olid erinenud	V;ACT;PRS;PRF;POS;COND;2;SG
 erinema	erinevad	V;ACT;PRS;POS;IND;3;PL
 erinema	olite erinenud	V;ACT;PRS;PRF;POS;COND;2;PL
 erinema	ei erinetud	V;PASS;PST;NEG;IND
-erinema	oleksite erinenud	V;ACT;PRS;PRF:POS;COND;2;PL
+erinema	oleksite erinenud	V;ACT;PRS;PRF;POS;COND;2;PL
 erinema	erinev	V.PTCP;ACT;PRS
 erinema	erinegu	V;ACT;PRS;POS;IMP;3;SG
 erinema	erinema	V;NFIN
